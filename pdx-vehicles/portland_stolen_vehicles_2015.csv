@@ -1,0 +1,2270 @@
+neighborhood,month_start,make,model,stolen_count
+Alameda,2015-06-01,Kia Motors Corp,"Kia Motors Corp Forte, Forte Koup",1
+Alameda,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Alameda,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Alameda,2015-08-01,Kia Motors Corp,Kia Motors Corp Sorrento,1
+Alameda,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Alameda,2015-09-01,Chevrolet,Chevrolet Sportvan,1
+Alameda,2015-10-01,BMW,BMW 325i *(DO NOT USE CODE),1
+Alameda,2015-11-01,International Harvester,Unknown International Harvester Model,1
+Alameda,2015-11-01,Acura,Acura Integra,1
+Arbor Lodge,2015-05-01,Ford,Ford Escape,1
+Arbor Lodge,2015-05-01,Mazda,Mazda B2000,1
+Arbor Lodge,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Arbor Lodge,2015-10-01,GMC,GMC Sierra,1
+Arbor Lodge,2015-10-01,Nissan,Nissan Truck,1
+Arbor Lodge,2015-11-01,Taotao Ind Co or Zhejiang Taotao Industry Co Ltd,Unknown Taotao Ind Co or Zhejiang Taotao Industry Co Ltd Model,1
+Arbor Lodge,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Arbor Lodge,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Arbor Lodge,2015-11-01,Ford,Ford Ranger,1
+Arbor Lodge,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Arbor Lodge,2015-12-01,Toyota,Toyota Camry,1
+Arbor Lodge,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Ardenwald,2015-05-01,Chevrolet,Chevrolet Lumina,1
+Ardenwald,2015-06-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Ardenwald,2015-07-01,Chevrolet,Chevrolet S10,1
+Ardenwald,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Ardenwald,2015-11-01,Honda,Honda CRV,1
+Argay,2015-05-01,Chevrolet,Chevrolet El Camino,1
+Argay,2015-05-01,Ford,Ford Econoline E250,1
+Argay,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",3
+Argay,2015-06-01,Acura,Acura Legend,1
+Argay,2015-06-01,Subaru,Unknown Subaru Model,1
+Argay,2015-06-01,Mazda,Mazda B2600,1
+Argay,2015-06-01,Kia Motors Corp,Kia Motors Corp Rio,1
+Argay,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Argay,2015-06-01,Unknown,Twist N' Go,1
+Argay,2015-07-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Argay,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Argay,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Argay,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Argay,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Argay,2015-09-01,Mazda,Mazda Tribute,1
+Argay,2015-09-01,Chevrolet,Chevrolet TrailBlazer,1
+Argay,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Argay,2015-09-01,Kia Motors Corp,Kia Motors Corp Optima,1
+Argay,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",3
+Argay,2015-10-01,Honda,"Honda Accord, Accord Crosstour",3
+Argay,2015-10-01,Acura,Acura Vigor,1
+Argay,2015-10-01,Toyota,Toyota Camry,1
+Argay,2015-10-01,Ford,Ford F250,1
+Argay,2015-10-01,Acura,Acura Integra,1
+Argay,2015-11-01,Acura,Acura Integra,3
+Argay,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Argay,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Argay,2015-11-01,Ford,Ford Fusion,1
+Argay,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Argay,2015-11-01,Ford,Ford Econoline E250,1
+Argay,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Argay,2015-12-01,Jeep,Jeep Grand Cherokee,1
+Argay,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Argay,2015-12-01,Toyota,Toyota Tundra,1
+Arlington Heights,2015-05-01,Volvo,Unknown Volvo Model,1
+Arnold Creek,2015-11-01,Subaru,Subaru Outback,1
+Ashcreek,2015-06-01,Kia Motors Corp,Kia Motors Corp Sportage,1
+Ashcreek,2015-08-01,Dodge,Dodge Durango,1
+Ashcreek,2015-09-01,Chevrolet,Chevrolet Silverado,1
+Beaumont-Wilshire,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Beaumont-Wilshire,2015-06-01,Audi,Unknown Audi Model,1
+Beaumont-Wilshire,2015-06-01,Ducati,Ducati Motorcycle,1
+Beaumont-Wilshire,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Beaumont-Wilshire,2015-10-01,Ford,Ford F150,1
+Beaumont-Wilshire,2015-10-01,Volkswagen,Volkswagen Passat,1
+Beaumont-Wilshire,2015-10-01,Volkswagen,Volkswagen Golf,1
+Beaumont-Wilshire,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Beaumont-Wilshire,2015-11-01,Chevrolet,Chevrolet Truck,1
+Beaumont-Wilshire,2015-11-01,Mazda,Mazda B2600,1
+Beaumont-Wilshire,2015-11-01,Ford,Ford F150,1
+Beaumont-Wilshire,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Boise,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Boise,2015-06-01,Yamaha,Yamaha Motorcycle,1
+Boise,2015-07-01,Honda,Honda CRV,1
+Boise,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Boise,2015-07-01,Ford,"Ford Taurus, Taurus X",1
+Boise,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Boise,2015-08-01,Ford,Ford Econoline E350,1
+Boise,2015-08-01,Audi,Audi A6,1
+Boise,2015-09-01,Dodge,Dodge Caliber,1
+Boise,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Boise,2015-09-01,Honda,Honda CRV,1
+Boise,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Boise,2015-10-01,Acura,Acura Integra,1
+Boise,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Boise,2015-11-01,Honda,Honda CRV,1
+Boise,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Boise,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Brentwood-Darlington,2015-05-01,Toyota,Toyota Tercel,1
+Brentwood-Darlington,2015-05-01,Acura,Acura Integra,1
+Brentwood-Darlington,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Brentwood-Darlington,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Brentwood-Darlington,2015-06-01,Ford,Ford Explorer,1
+Brentwood-Darlington,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Brentwood-Darlington,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Brentwood-Darlington,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",2
+Brentwood-Darlington,2015-08-01,Chevrolet,Chevrolet Lumina,1
+Brentwood-Darlington,2015-08-01,Toyota,Toyota Tacoma,1
+Brentwood-Darlington,2015-08-01,Acura,Acura Integra,1
+Brentwood-Darlington,2015-09-01,Honda,Honda CRV,1
+Brentwood-Darlington,2015-09-01,Nissan,Nissan Sentra,1
+Brentwood-Darlington,2015-09-01,Yamaha,Yamaha Motorcycle,1
+Brentwood-Darlington,2015-09-01,Chevrolet,Chevrolet S10,1
+Brentwood-Darlington,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Brentwood-Darlington,2015-10-01,Ford,Ford Expedition,1
+Brentwood-Darlington,2015-10-01,Ford,Ford F150,1
+Brentwood-Darlington,2015-11-01,Saturn,Saturn SL,1
+Brentwood-Darlington,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Brentwood-Darlington,2015-12-01,Honda,"Honda Accord, Accord Crosstour",4
+Brentwood-Darlington,2015-12-01,Toyota,Unknown Toyota Model,2
+Brentwood-Darlington,2015-12-01,Honda,Unknown Honda Model,1
+Brentwood-Darlington,2015-12-01,Honda,Honda CRV,1
+Brentwood-Darlington,2015-12-01,Chrysler,Chrysler Town & Country Minivan,1
+Brentwood-Darlington,2015-12-01,Volvo,Volvo V70,1
+Bridgeton,2015-05-01,Ford,Ford Econoline E250,1
+Bridgeton,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Bridgeton,2015-07-01,Honda,Unknown Honda Model,1
+Bridgeton,2015-10-01,Toyota,Toyota Paseo,1
+Bridgeton,2015-11-01,Nissan,Nissan XTerra,1
+Bridgeton,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Bridgeton,2015-12-01,Toyota,Toyota Tacoma,1
+Bridgeton,2015-12-01,Nissan,Nissan Sentra,1
+Bridlemile,2015-06-01,Honda,Honda Motorcycle,1
+Bridlemile,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Bridlemile,2015-11-01,Toyota,"Toyota Corolla, Corolla IM",1
+Bridlemile,2015-11-01,Chevrolet,Chevrolet Equinox,1
+Brooklyn,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",3
+Brooklyn,2015-05-01,Nissan,Nissan Maxima,1
+Brooklyn,2015-05-01,Toyota,Toyota Truck,1
+Brooklyn,2015-05-01,Nissan,Nissan Truck,1
+Brooklyn,2015-05-01,Kia Motors Corp,Kia Motors Corp Spectra,1
+Brooklyn,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",2
+Brooklyn,2015-06-01,Subaru,Subaru Outback,1
+Brooklyn,2015-07-01,Toyota,Toyota Camry,1
+Brooklyn,2015-07-01,Nissan,Nissan Truck,1
+Brooklyn,2015-08-01,Nissan,Nissan Truck,1
+Brooklyn,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",3
+Brooklyn,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Brooklyn,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Brooklyn,2015-10-01,Saturn,Saturn SL,1
+Brooklyn,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Brooklyn,2015-11-01,Toyota,Toyota Camry,1
+Brooklyn,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Brooklyn,2015-12-01,Ford,Ford Explorer,1
+Brooklyn,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Buckman East,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Buckman East,2015-05-01,Honda,Honda Motorcycle,2
+Buckman East,2015-05-01,Husaberg Motor AB,Unknown Husaberg Motor AB Model,1
+Buckman East,2015-05-01,Ducati,Ducati Motorcycle,1
+Buckman East,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Buckman East,2015-06-01,Honda,"Honda Accord, Accord Crosstour",2
+Buckman East,2015-06-01,Nissan,Nissan Truck,1
+Buckman East,2015-06-01,Nissan,Nissan Maxima,1
+Buckman East,2015-06-01,Unknown Make,Unknown Unknown Make Model,1
+Buckman East,2015-06-01,Chevrolet,Unknown Chevrolet Model,1
+Buckman East,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",2
+Buckman East,2015-07-01,Toyota,Toyota Camry,1
+Buckman East,2015-07-01,Acura,Acura Integra,1
+Buckman East,2015-07-01,Harley Davidson,Harley Davidson Motorcycle,1
+Buckman East,2015-07-01,Ford,Ford Escort,1
+Buckman East,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Buckman East,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Buckman East,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Buckman East,2015-08-01,Volkswagen,Volkswagen Jetta,1
+Buckman East,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Buckman East,2015-09-01,Suzuki,Suzuki Motorcycle,1
+Buckman East,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Buckman East,2015-09-01,Honda,Honda CRV,1
+Buckman East,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Buckman East,2015-09-01,Kawasaki,Kawasaki Motorcycle,1
+Buckman East,2015-09-01,Ford,Ford Bronco Models,1
+Buckman East,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Buckman East,2015-10-01,Volkswagen,Volkswagen Jetta,1
+Buckman East,2015-11-01,Nissan,Nissan Truck,2
+Buckman East,2015-11-01,Jeep,Jeep Cherokee,1
+Buckman East,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Buckman East,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Buckman East,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",3
+Buckman East,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Buckman East,2015-12-01,Nissan,Nissan Truck,2
+Buckman East,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Buckman East,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Buckman East,2015-12-01,Acura,Acura Integra,1
+Buckman East,2015-12-01,Toyota,"Toyota Corolla, Corolla IM",1
+Buckman West,2015-05-01,Volvo,Volvo 740 Series,1
+Buckman West,2015-05-01,Honda,Honda CRV,1
+Buckman West,2015-05-01,Dodge,Dodge Dakota,1
+Buckman West,2015-06-01,Volkswagen,Volkswagen Cabriolet,1
+Buckman West,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Buckman West,2015-07-01,Toyota,"Toyota Corolla, Corolla IM",3
+Buckman West,2015-08-01,Toyota,Toyota 4-Runner,1
+Buckman West,2015-08-01,Honda,Honda CRV,1
+Buckman West,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Buckman West,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Buckman West,2015-09-01,Nissan,Nissan Truck,1
+Buckman West,2015-09-01,Ford,Ford Fusion,1
+Buckman West,2015-10-01,Toyota,Toyota Camry,1
+Buckman West,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Buckman West,2015-10-01,Nissan,Nissan Truck,1
+Buckman West,2015-11-01,Toyota,Toyota Truck,1
+Buckman West,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",4
+Buckman West,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Buckman West,2015-12-01,GMC,GMC Safari,1
+Buckman West,2015-12-01,Toyota,Toyota Camry,1
+Buckman West,2015-12-01,Toyota,Toyota Prius,1
+Buckman West,2015-12-01,Dodge,Dodge Ram 1500,1
+Buckman West,2015-12-01,Nissan,Nissan Sentra,1
+Buckman West,2015-12-01,Acura,Acura Integra,1
+Cathedral Park,2015-05-01,Honda,Honda Motorcycle,1
+Cathedral Park,2015-07-01,Honda,Honda CRV,1
+Cathedral Park,2015-07-01,Kia Motors Corp,Kia Motors Corp Soul,1
+Cathedral Park,2015-07-01,Buick,"Buick Le Sabre, Le Sabre Limited",1
+Cathedral Park,2015-09-01,Nissan,Nissan Maxima,1
+Cathedral Park,2015-09-01,Chevrolet,Chevrolet Silverado,1
+Cathedral Park,2015-10-01,Land Rover,Land Rover LR3,1
+Cathedral Park,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Cathedral Park,2015-10-01,Dodge,Dodge Ram 1500,1
+Cathedral Park,2015-11-01,Acura,Acura Integra,1
+Cathedral Park,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Cathedral Park,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Cathedral Park,2015-11-01,Volkswagen,Volkswagen Eurovan,1
+Cathedral Park,2015-11-01,Nissan,Nissan 720,1
+Cathedral Park,2015-12-01,Toyota,Toyota Truck,1
+Cathedral Park,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Cathedral Park,2015-12-01,Kia Motors Corp,Kia Motors Corp Rio,1
+Centennial,2015-05-01,Honda,"Honda Accord, Accord Crosstour",4
+Centennial,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",3
+Centennial,2015-05-01,Hyundai,Hyundai Sonata,2
+Centennial,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Centennial,2015-05-01,Chevrolet,Chevrolet Express,1
+Centennial,2015-05-01,Ford,Ford F150,1
+Centennial,2015-05-01,Ford,Ford Escort,1
+Centennial,2015-05-01,Audi,Audi A4,1
+Centennial,2015-05-01,Cadillac,Cadillac CTS,1
+Centennial,2015-05-01,Jeep,Jeep Grand Cherokee,1
+Centennial,2015-05-01,Unknown,Unknown,1
+Centennial,2015-06-01,Mercury,Unknown Mercury Model,1
+Centennial,2015-06-01,Chevrolet,Chevrolet Tahoe,1
+Centennial,2015-06-01,Chevrolet,Chevrolet Blazer,1
+Centennial,2015-06-01,Unknown Make,Unknown Unknown Make Model,1
+Centennial,2015-06-01,Ford,Ford Crown Victoria,1
+Centennial,2015-06-01,Volvo,Volvo 740 Series,1
+Centennial,2015-06-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Centennial,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Centennial,2015-06-01,Mercedes-Benz,Mercedes-Benz 500 Series,1
+Centennial,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Centennial,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Centennial,2015-07-01,Nissan,Nissan XTerra,1
+Centennial,2015-07-01,Nissan,Nissan Truck,1
+Centennial,2015-07-01,Toyota,"Toyota Corolla, Corolla IM",1
+Centennial,2015-07-01,Dodge,Dodge Neon,1
+Centennial,2015-07-01,GEO,GEO Prizm,1
+Centennial,2015-07-01,Ford,Ford Econoline E350,1
+Centennial,2015-07-01,Mitsubishi,Mitsubishi Montero/Montero Sport,1
+Centennial,2015-07-01,Chrysler,Chrysler Town & Country Minivan,1
+Centennial,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",2
+Centennial,2015-08-01,Hyundai,Hyundai Accent,1
+Centennial,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Centennial,2015-08-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Centennial,2015-08-01,All-Terrain Vehicle,All-Terrain Vehicle Wheels only,1
+Centennial,2015-08-01,Oldsmobile,"Oldsmobile Cutlass, Cutlass Ciera, Supreme",1
+Centennial,2015-08-01,Acura,Acura Integra,1
+Centennial,2015-08-01,Scion,Scion XD,1
+Centennial,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Centennial,2015-09-01,Freightliner Corp,Freightliner Corp Truck,2
+Centennial,2015-09-01,Wabash National Corp,Wabash National Corp Trailer,2
+Centennial,2015-09-01,Ford,Ford Ranger,1
+Centennial,2015-09-01,Unknown,Dorsey Trailers Inc Trailer,1
+Centennial,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Centennial,2015-09-01,Honda,Honda Pilot,1
+Centennial,2015-09-01,Nissan,Nissan 720,1
+Centennial,2015-09-01,Dodge,Dodge Avenger,1
+Centennial,2015-09-01,Toyota,Toyota Tacoma,1
+Centennial,2015-09-01,Freightliner Corp,Unknown,1
+Centennial,2015-09-01,Toyota,Unknown,1
+Centennial,2015-10-01,Honda,"Honda Accord, Accord Crosstour",6
+Centennial,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",2
+Centennial,2015-10-01,Toyota,Toyota Corona,1
+Centennial,2015-10-01,Suzuki,Suzuki Motorcycle,1
+Centennial,2015-10-01,Ford,Ford F150,1
+Centennial,2015-10-01,Ford,Ford Special,1
+Centennial,2015-10-01,Jeep,Jeep Cherokee,1
+Centennial,2015-10-01,Chevrolet,Chevrolet Blazer,1
+Centennial,2015-10-01,Toyota,Toyota 4-Runner,1
+Centennial,2015-10-01,Honda,Honda CRV,1
+Centennial,2015-10-01,Toyota,Unknown,1
+Centennial,2015-11-01,Honda,"Honda Accord, Accord Crosstour",7
+Centennial,2015-11-01,Acura,Acura Integra,4
+Centennial,2015-11-01,Unknown,Unknown,4
+Centennial,2015-11-01,Honda,Honda CRV,3
+Centennial,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",3
+Centennial,2015-11-01,Ford,Ford Ranger,1
+Centennial,2015-11-01,Chevrolet,Chevrolet Suburban,1
+Centennial,2015-11-01,Chevrolet,Chevrolet Cobalt,1
+Centennial,2015-11-01,Chevrolet,Chevrolet Express,1
+Centennial,2015-11-01,Ford,Ford F250,1
+Centennial,2015-11-01,Dodge,Dodge Ram 3500,1
+Centennial,2015-12-01,Honda,"Honda Accord, Accord Crosstour",5
+Centennial,2015-12-01,Honda,Honda CRV,2
+Centennial,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Centennial,2015-12-01,Chevrolet,Chevrolet Cavalier,1
+Centennial,2015-12-01,Toyota,Toyota Tacoma,1
+Centennial,2015-12-01,Acura,Acura Integra,1
+Centennial,2015-12-01,Chevrolet,Chevrolet Blazer,1
+Centennial,2015-12-01,Ford,Ford Escort,1
+Centennial,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Centennial,2015-12-01,Ford,Ford Ranger,1
+Concordia,2015-05-01,Honda,Honda Odyssey,1
+Concordia,2015-06-01,Honda,"Honda Accord, Accord Crosstour",3
+Concordia,2015-06-01,Toyota,Toyota 4-Runner,1
+Concordia,2015-07-01,Toyota,Toyota T-100,1
+Concordia,2015-07-01,Honda,Honda CRV,1
+Concordia,2015-07-01,Ford,Ford Thunderbird,1
+Concordia,2015-08-01,Kawasaki,Unknown Kawasaki Model,1
+Concordia,2015-08-01,BMC Motorcycle Co,BMC Motorcycle Co Motorcycle,1
+Concordia,2015-09-01,Ford,Ford F150,1
+Concordia,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Concordia,2015-09-01,Dodge,Dodge Dakota,1
+Concordia,2015-10-01,Ford,Ford Tempo,1
+Concordia,2015-10-01,Isuzu,Isuzu Trooper,1
+Concordia,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",3
+Concordia,2015-11-01,Chevrolet,Chevrolet Blazer,1
+Concordia,2015-11-01,Mazda,Mazda Protege,1
+Concordia,2015-11-01,Homemade Motorcycle,Homemade Motorcycle Motorcycle,1
+Concordia,2015-12-01,Ford,Ford Escort,1
+Concordia,2015-12-01,Cadillac,Cadillac DeVille,1
+Concordia,2015-12-01,Ford,"Ford Taurus, Taurus X",1
+Creston-Kenilworth,2015-05-01,Nissan,Unknown Nissan Model,2
+Creston-Kenilworth,2015-05-01,Toyota,Unknown,2
+Creston-Kenilworth,2015-05-01,Toyota,Toyota Camry,1
+Creston-Kenilworth,2015-05-01,Nissan,Nissan Sentra,1
+Creston-Kenilworth,2015-05-01,Nissan,Nissan XE,1
+Creston-Kenilworth,2015-05-01,Nissan,Nissan Truck,1
+Creston-Kenilworth,2015-05-01,Chevrolet,"Chevrolet Camaro, Berlinetta",1
+Creston-Kenilworth,2015-05-01,Suzuki,Suzuki Motorcycle,1
+Creston-Kenilworth,2015-05-01,Ford,Ford Escort,1
+Creston-Kenilworth,2015-05-01,Dodge,Dodge Dakota,1
+Creston-Kenilworth,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Creston-Kenilworth,2015-06-01,Nissan,Nissan Truck,4
+Creston-Kenilworth,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",2
+Creston-Kenilworth,2015-06-01,Nissan,Nissan Frontier,1
+Creston-Kenilworth,2015-06-01,Volkswagen,Volkswagen Passat,1
+Creston-Kenilworth,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Creston-Kenilworth,2015-06-01,Mercury,Mercury Marquis,1
+Creston-Kenilworth,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Creston-Kenilworth,2015-06-01,Tomberlin Automotive Group (MCs and Electric vehicles),Tomberlin Automotive Group,1
+Creston-Kenilworth,2015-07-01,Acura,Acura TL Series,1
+Creston-Kenilworth,2015-07-01,Toyota,Toyota RAV4,1
+Creston-Kenilworth,2015-07-01,Unlisted motorcycle make,Unlisted motorcycle make Motorcycle,1
+Creston-Kenilworth,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Creston-Kenilworth,2015-08-01,Jeep,Jeep Cherokee,2
+Creston-Kenilworth,2015-08-01,Scion,Scion XD,1
+Creston-Kenilworth,2015-08-01,Toyota,Toyota Camry,1
+Creston-Kenilworth,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Creston-Kenilworth,2015-08-01,Toyota,Toyota 4-Runner,1
+Creston-Kenilworth,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Creston-Kenilworth,2015-09-01,Toyota,Toyota Camry,1
+Creston-Kenilworth,2015-09-01,Ford,Ford Ranger,1
+Creston-Kenilworth,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",2
+Creston-Kenilworth,2015-10-01,Suzuki,Suzuki Motorcycle,2
+Creston-Kenilworth,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Creston-Kenilworth,2015-10-01,Jeep,Jeep Compass,1
+Creston-Kenilworth,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Creston-Kenilworth,2015-10-01,Isuzu,Isuzu Truck,1
+Creston-Kenilworth,2015-11-01,Honda,"Honda Accord, Accord Crosstour",3
+Creston-Kenilworth,2015-11-01,Infiniti,Infiniti G37,1
+Creston-Kenilworth,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Creston-Kenilworth,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Creston-Kenilworth,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Creston-Kenilworth,2015-12-01,Nissan,Unknown Nissan Model,2
+Creston-Kenilworth,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Creston-Kenilworth,2015-12-01,Honda,Honda CRV,2
+Creston-Kenilworth,2015-12-01,Nissan,Nissan Truck,1
+Creston-Kenilworth,2015-12-01,Ford,Ford Econoline E350,1
+Creston-Kenilworth,2015-12-01,Datsun,Datsun 720,1
+Creston-Kenilworth,2015-12-01,GEO,GEO Prizm,1
+Crestwood,2015-11-01,Cadillac,Cadillac Escalade,1
+Crestwood,2015-11-01,Yamaha,Yamaha Motorcycle,1
+Cully,2015-05-01,Chevrolet,Chevrolet Cobalt,1
+Cully,2015-05-01,Toyota,Unknown Toyota Model,1
+Cully,2015-05-01,Honda,Honda Motorcycle,1
+Cully,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Cully,2015-06-01,Toyota,Toyota Avalon,1
+Cully,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Cully,2015-06-01,Jeep,Jeep Grand Cherokee,1
+Cully,2015-07-01,Datsun,Datsun 510,2
+Cully,2015-07-01,Jeep,Jeep Grand Cherokee,2
+Cully,2015-07-01,Chevrolet,Chevrolet HHR,1
+Cully,2015-07-01,Chevrolet,Chevrolet Equinox,1
+Cully,2015-07-01,Dodge,Dodge Ram 2500,1
+Cully,2015-07-01,Ford,Ford Ranger,1
+Cully,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Cully,2015-07-01,Plymouth,Plymouth Voyager,1
+Cully,2015-07-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Cully,2015-08-01,Chevrolet,Chevrolet S10,1
+Cully,2015-08-01,Chevrolet,Chevrolet Blazer,1
+Cully,2015-08-01,Volkswagen,Volkswagen Golf,1
+Cully,2015-08-01,Dodge,Dodge Ram 1500,1
+Cully,2015-08-01,GMC,GMC Truck,1
+Cully,2015-08-01,Volvo,Volvo 240 Series,1
+Cully,2015-08-01,Ford,Ford Thunderbird,1
+Cully,2015-08-01,Mazda,Mazda B2200,1
+Cully,2015-09-01,Chevrolet,Chevrolet C/K 2500,1
+Cully,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Cully,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Cully,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Cully,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",4
+Cully,2015-10-01,Chevrolet,Chevrolet Truck,2
+Cully,2015-10-01,Honda,"Honda Accord, Accord Crosstour",2
+Cully,2015-10-01,Toyota,Unknown,2
+Cully,2015-10-01,Ford,Ford Ranger,1
+Cully,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Cully,2015-10-01,Chevrolet,Chevrolet Astro,1
+Cully,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Cully,2015-10-01,Ford,Ford 300 Series,1
+Cully,2015-10-01,Big Tex,Big Tex Trailer,1
+Cully,2015-10-01,Nissan,Nissan Truck,1
+Cully,2015-10-01,Unknown,Unknown,1
+Cully,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",3
+Cully,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Cully,2015-11-01,Triumph Motor Co,Triumph Motor Co Motorcycle,1
+Cully,2015-11-01,Chevrolet,Chevrolet Astro,1
+Cully,2015-11-01,Honda,Honda Motorcycle,1
+Cully,2015-11-01,Toyota,"Toyota Corolla, Corolla IM",1
+Cully,2015-12-01,Honda,Honda CRV,2
+Cully,2015-12-01,BMW,BMW 530 Series,1
+Cully,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Cully,2015-12-01,Dodge,Dodge Ram 1500,1
+Cully,2015-12-01,Toyota,Toyota Camry,1
+Cully,2015-12-01,Chevrolet,Chevrolet Astro,1
+Cully,2015-12-01,Jeep,Jeep Grand Cherokee,1
+Downtown,2015-05-01,Honda,"Honda Accord, Accord Crosstour",4
+Downtown,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",2
+Downtown,2015-05-01,Chevrolet,Chevrolet Suburban,1
+Downtown,2015-05-01,Nissan,Nissan Maxima,1
+Downtown,2015-05-01,Toyota,Toyota Truck,1
+Downtown,2015-05-01,Toyota,Toyota MR2,1
+Downtown,2015-05-01,Toyota,"Toyota Corolla, Corolla IM",1
+Downtown,2015-05-01,Saturn,Saturn SL,1
+Downtown,2015-05-01,Ford,Ford Escape,1
+Downtown,2015-05-01,Pontiac,Pontiac Bonneville,1
+Downtown,2015-05-01,Unknown,Unknown,1
+Downtown,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",2
+Downtown,2015-06-01,Unknown,Unknown,2
+Downtown,2015-06-01,Nissan,Nissan Altima,1
+Downtown,2015-06-01,Toyota,Toyota Camry,1
+Downtown,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Downtown,2015-06-01,Buick,Buick Lacrosse,1
+Downtown,2015-06-01,Ford,Ford Escort,1
+Downtown,2015-06-01,Dodge,Dodge Ram 1500,1
+Downtown,2015-06-01,Kia Motors Corp,Kia Motors Corp Soul,1
+Downtown,2015-06-01,Hyundai,Hyundai Sonata,1
+Downtown,2015-06-01,Jeep,Jeep Liberty,1
+Downtown,2015-06-01,Toyota,Unknown,1
+Downtown,2015-06-01,Chevrolet,Unknown,1
+Downtown,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",2
+Downtown,2015-07-01,Toyota,Toyota Truck,1
+Downtown,2015-07-01,Chevrolet,Chevrolet Lumina,1
+Downtown,2015-07-01,Acura,Acura Integra,1
+Downtown,2015-07-01,Chevrolet,"Chevrolet Camaro, Berlinetta",1
+Downtown,2015-07-01,Ford,Ford Escape,1
+Downtown,2015-07-01,Saturn,Saturn Ion,1
+Downtown,2015-07-01,Harley Davidson,Harley Davidson Motorcycle,1
+Downtown,2015-07-01,Pontiac,Pontiac Sunfire,1
+Downtown,2015-07-01,Kawasaki,Kawasaki Motorcycle,1
+Downtown,2015-07-01,Unknown,Unknown,1
+Downtown,2015-08-01,Toyota,"Toyota Corolla, Corolla IM",1
+Downtown,2015-08-01,Suzuki,Suzuki Motorcycle,1
+Downtown,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Downtown,2015-08-01,Mazda,Mazda CX5,1
+Downtown,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Downtown,2015-08-01,Chevrolet,Chevrolet Astro,1
+Downtown,2015-09-01,Volkswagen,Volkswagen Touareg,1
+Downtown,2015-09-01,BMW,BMW 520 Series,1
+Downtown,2015-09-01,Nissan,Nissan Truck,1
+Downtown,2015-09-01,Pontiac,Pontiac Vibe,1
+Downtown,2015-09-01,Volkswagen,Volkswagen Jetta,1
+Downtown,2015-09-01,Acura,Acura Integra,1
+Downtown,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",5
+Downtown,2015-10-01,Honda,"Honda Accord, Accord Crosstour",2
+Downtown,2015-10-01,Chrysler,Chrysler Fifth Avenue,1
+Downtown,2015-10-01,Lincoln,Lincoln Town Car,1
+Downtown,2015-10-01,Toyota,Toyota Avalon,1
+Downtown,2015-10-01,Ford,Ford Ranger,1
+Downtown,2015-10-01,Chevrolet,Chevrolet Blazer,1
+Downtown,2015-10-01,Toyota,Toyota 4-Runner,1
+Downtown,2015-10-01,Volkswagen,Volkswagen Jetta,1
+Downtown,2015-10-01,Kia Motors Corp,Kia Motors Corp Optima,1
+Downtown,2015-10-01,Unknown,Unknown,1
+Downtown,2015-11-01,Honda,"Honda Accord, Accord Crosstour",6
+Downtown,2015-11-01,Toyota,Toyota Camry,2
+Downtown,2015-11-01,Mercedes-Benz,Mercedes-Benz 230 Series,1
+Downtown,2015-11-01,Nissan,Nissan Truck,1
+Downtown,2015-11-01,Honda,Honda CRV,1
+Downtown,2015-11-01,Lexus,Lexus ES300,1
+Downtown,2015-11-01,Chrysler,Chrysler 200,1
+Downtown,2015-11-01,Ford,Ford Escort,1
+Downtown,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",8
+Downtown,2015-12-01,Honda,"Honda Accord, Accord Crosstour",6
+Downtown,2015-12-01,Honda,Honda CRV,2
+Downtown,2015-12-01,GEO,GEO Tracker,1
+Downtown,2015-12-01,Acura,Acura RDX,1
+Downtown,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Downtown,2015-12-01,Nissan,Nissan Altima,1
+East Columbia,2015-05-01,Shenke Motorcycle Co Ltd; Shanghai Shenke Motorcycle Co,Shenke Motorcycle Co Ltd; Shanghai Shenke Motorcycle Co Motorcycle,1
+East Columbia,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+East Columbia,2015-06-01,Dodge,Dodge Ram 3500,1
+East Columbia,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+East Columbia,2015-07-01,Mazda,Mazda Protege,1
+East Columbia,2015-07-01,Kawasaki,Kawasaki Motorcycle,1
+East Columbia,2015-08-01,Kawasaki,Kawasaki Motorcycle,1
+East Columbia,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+East Columbia,2015-10-01,Honda,Honda CRV,1
+East Columbia,2015-10-01,Ford,Ford Thunderbird,1
+East Columbia,2015-11-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+East Columbia,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+East Columbia,2015-11-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Eastmoreland,2015-06-01,Honda,Unknown Honda Model,1
+Eastmoreland,2015-06-01,Ford,Ford Fusion,1
+Eastmoreland,2015-08-01,Ford,Ford Ranger,1
+Eastmoreland,2015-09-01,Nissan,Nissan 200SX,1
+Eastmoreland,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Eastmoreland,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Eastmoreland,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Eastmoreland,2015-12-01,Subaru,Subaru Loyale,1
+Eliot,2015-05-01,Toyota,Toyota Tercel,1
+Eliot,2015-05-01,Acura,Acura CL Series,1
+Eliot,2015-05-01,Acura,Acura Integra,1
+Eliot,2015-05-01,Honda,Honda CRV,1
+Eliot,2015-06-01,Honda,"Honda Accord, Accord Crosstour",4
+Eliot,2015-06-01,Toyota,"Toyota Corolla, Corolla IM",1
+Eliot,2015-06-01,Nissan,Nissan Versa,1
+Eliot,2015-06-01,Ford,Ford Ranger,1
+Eliot,2015-06-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Eliot,2015-06-01,Honda,Honda Prelude,1
+Eliot,2015-07-01,Audi,Audi A4,1
+Eliot,2015-08-01,Hyundai,Hyundai Accent,1
+Eliot,2015-08-01,Chevrolet,Chevrolet S10,1
+Eliot,2015-09-01,Mitsubishi,Mitsubishi Galant,1
+Eliot,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Eliot,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Eliot,2015-10-01,Dodge,Dodge Ram 1500,1
+Eliot,2015-10-01,Freightliner Corp,Freightliner Corp Truck,1
+Eliot,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",3
+Eliot,2015-11-01,Toyota,"Toyota Corolla, Corolla IM",1
+Eliot,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Eliot,2015-11-01,Kia Motors Corp,Kia Motors Corp Sorrento,1
+Eliot,2015-12-01,Dodge,Unknown Dodge Model,1
+Eliot,2015-12-01,Toyota,Toyota Camry,1
+Eliot,2015-12-01,Chevrolet,Chevrolet Colorado,1
+Eliot,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Eliot,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Eliot,2015-12-01,Ford,Ford Fusion,1
+Far Southwest,2015-08-01,Honda,Unknown Honda Model,1
+Far Southwest,2015-08-01,Freightliner Corp,Freightliner Corp Truck,1
+Far Southwest,2015-09-01,Honda,Honda CRV,1
+Far Southwest,2015-10-01,Suzuki,Unknown Suzuki Model,1
+Forest Park,2015-05-01,Toyota,Toyota Tundra,1
+Forest Park,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Forest Park,2015-12-01,Cadillac,Cadillac Eldorado,1
+Foster-Powell,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Foster-Powell,2015-05-01,Nissan,Nissan Truck,1
+Foster-Powell,2015-05-01,Acura,Acura MDX,1
+Foster-Powell,2015-05-01,Saturn,Saturn SL,1
+Foster-Powell,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Foster-Powell,2015-06-01,Nissan,Nissan Truck,1
+Foster-Powell,2015-06-01,Nissan,Unknown Nissan Model,1
+Foster-Powell,2015-06-01,Isuzu,Unknown Isuzu Model,1
+Foster-Powell,2015-06-01,Dodge,Dodge Neon,1
+Foster-Powell,2015-06-01,Lexus,Lexus IS300,1
+Foster-Powell,2015-06-01,Ford,Ford Econoline E150,1
+Foster-Powell,2015-07-01,Nissan,Nissan Truck,1
+Foster-Powell,2015-07-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Foster-Powell,2015-07-01,Toyota,Toyota Sienna,1
+Foster-Powell,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Foster-Powell,2015-08-01,Subaru,Unknown Subaru Model,1
+Foster-Powell,2015-08-01,Nissan,Nissan Truck,1
+Foster-Powell,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Foster-Powell,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Foster-Powell,2015-09-01,Toyota,Toyota Truck,1
+Foster-Powell,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Foster-Powell,2015-10-01,Saturn,Saturn SL,1
+Foster-Powell,2015-10-01,Honda,Honda Prelude,1
+Foster-Powell,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Foster-Powell,2015-10-01,GMC,GMC Terrain,1
+Foster-Powell,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Foster-Powell,2015-10-01,Dodge,Dodge Dakota,1
+Foster-Powell,2015-10-01,Nissan,Nissan Sentra,1
+Foster-Powell,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Foster-Powell,2015-11-01,Saturn,Saturn SC,2
+Foster-Powell,2015-11-01,Nissan,Unknown Nissan Model,1
+Foster-Powell,2015-11-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Foster-Powell,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Foster-Powell,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Foster-Powell,2015-11-01,Nissan,Nissan 370Z,1
+Foster-Powell,2015-12-01,Jeep,Jeep Grand Cherokee,3
+Foster-Powell,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Foster-Powell,2015-12-01,Nissan,Unknown Nissan Model,2
+Foster-Powell,2015-12-01,Jeep,Jeep Wrangler,1
+Foster-Powell,2015-12-01,Nissan,Nissan Sentra,1
+Foster-Powell,2015-12-01,Ford,"Ford Taurus, Taurus X",1
+Foster-Powell,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Glenfair,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Glenfair,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Glenfair,2015-09-01,Saturn,Saturn SL,1
+Glenfair,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Glenfair,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Glenfair,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Glenfair,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Glenfair,2015-12-01,Honda,Unknown Honda Model,1
+Glenfair,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Goose Hollow,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Goose Hollow,2015-05-01,Nissan,Nissan Maxima,1
+Goose Hollow,2015-05-01,Honda,Unknown Honda Model,1
+Goose Hollow,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Goose Hollow,2015-05-01,Honda,Honda CRV,1
+Goose Hollow,2015-05-01,Jeep,Jeep Cherokee,1
+Goose Hollow,2015-06-01,Honda,"Honda Accord, Accord Crosstour",2
+Goose Hollow,2015-06-01,Toyota,Toyota SR5,1
+Goose Hollow,2015-06-01,Nissan,Nissan Maxima,1
+Goose Hollow,2015-06-01,Nissan,Nissan 240SX,1
+Goose Hollow,2015-06-01,Acura,Acura TLX,1
+Goose Hollow,2015-06-01,Nissan,Unknown Nissan Model,1
+Goose Hollow,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Goose Hollow,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",4
+Goose Hollow,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Goose Hollow,2015-07-01,Toyota,"Toyota Corolla, Corolla IM",1
+Goose Hollow,2015-07-01,Chevrolet,Chevrolet Suburban,1
+Goose Hollow,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",2
+Goose Hollow,2015-08-01,Honda,Honda CRV,1
+Goose Hollow,2015-08-01,Toyota,Toyota Camry,1
+Goose Hollow,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",3
+Goose Hollow,2015-09-01,Nissan,Nissan Altima,3
+Goose Hollow,2015-09-01,BMW,BMW M4,1
+Goose Hollow,2015-09-01,BMW,BMW M5,1
+Goose Hollow,2015-10-01,Volkswagen,Volkswagen Jetta,1
+Goose Hollow,2015-10-01,Volkswagen,"Volkswagen Beetle, Super Beetle, Bug",1
+Goose Hollow,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Goose Hollow,2015-10-01,Acura,Acura MDX,1
+Goose Hollow,2015-11-01,Honda,"Honda Accord, Accord Crosstour",3
+Goose Hollow,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Goose Hollow,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Goose Hollow,2015-12-01,Nissan,Nissan Maxima,1
+Goose Hollow,2015-12-01,Kia Motors Corp,Kia Motors Corp Sportage,1
+Goose Hollow,2015-12-01,Jeep,Jeep Cherokee,1
+Grant Park,2015-05-01,Chevrolet,Chevrolet Silverado,1
+Grant Park,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Grant Park,2015-08-01,Ford,Ford Focus,1
+Grant Park,2015-09-01,Toyota,Unknown Toyota Model,1
+Grant Park,2015-09-01,Ford,Ford F150,1
+Grant Park,2015-09-01,Dodge,Dodge Avenger,1
+Grant Park,2015-09-01,Toyota,Toyota Sienna,1
+Grant Park,2015-09-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Grant Park,2015-10-01,Volvo,Volvo V70,1
+Grant Park,2015-10-01,Subaru,Subaru Outback,1
+Grant Park,2015-10-01,Honda,Honda CRV,1
+Grant Park,2015-10-01,Ford,Ford F150,1
+Grant Park,2015-10-01,Ford,Ford Econoline E250,1
+Grant Park,2015-10-01,Toyota,Toyota Tacoma,1
+Grant Park,2015-10-01,Nissan,Nissan Truck,1
+Grant Park,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Grant Park,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Hayden Island,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hayden Island,2015-06-01,Honda,"Honda Accord, Accord Crosstour",2
+Hayden Island,2015-06-01,Mercury,Mercury Sable,1
+Hayden Island,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hayden Island,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Hayden Island,2015-07-01,Nissan,Nissan Truck,1
+Hayden Island,2015-07-01,Ford,Ford Mustang,1
+Hayden Island,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hayden Island,2015-08-01,Chevrolet,Chevrolet C/K 1500,1
+Hayden Island,2015-08-01,Toyota,Toyota Camry,1
+Hayden Island,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Hayden Island,2015-09-01,Lexus,Lexus ES350,1
+Hayden Island,2015-10-01,Honda,Honda Prelude,1
+Hayden Island,2015-10-01,Saturn,Saturn SL,1
+Hayden Island,2015-10-01,Nissan,Nissan Murano,1
+Hayden Island,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Hayden Island,2015-11-01,Kawasaki,Kawasaki Motorcycle,1
+Hayden Island,2015-11-01,Jeep,Jeep Grand Cherokee,1
+Hayden Island,2015-11-01,Chevrolet,Chevrolet Tahoe,1
+Hayden Island,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Hayden Island,2015-12-01,Kawasaki,Kawasaki Motorcycle,1
+Hayden Island,2015-12-01,Toyota,Toyota 4-Runner,1
+Hayden Island,2015-12-01,Kymco,Kymco Motorcycle,1
+Hayhurst,2015-06-01,Honda,Honda CRV,1
+Hayhurst,2015-07-01,Honda,Honda Motorcycle,1
+Hayhurst,2015-08-01,Genuine Scooters LLC mfgd by Motive Power Industry Co LTD,Unknown Genuine Scooters LLC mfgd by Motive Power Industry Co LTD Model,1
+Hayhurst,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hayhurst,2015-10-01,Nissan,Nissan Altima,1
+Hayhurst,2015-11-01,Honda,Honda Motorcycle,1
+Hazelwood,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",4
+Hazelwood,2015-05-01,Honda,"Honda Accord, Accord Crosstour",3
+Hazelwood,2015-05-01,Toyota,Toyota Camry,1
+Hazelwood,2015-05-01,Toyota,Toyota 4-Runner,1
+Hazelwood,2015-05-01,Nissan,Nissan Altima,1
+Hazelwood,2015-05-01,Scion,Scion iQ,1
+Hazelwood,2015-05-01,Pontiac,Pontiac Fiero,1
+Hazelwood,2015-05-01,Jeep,Jeep Cherokee,1
+Hazelwood,2015-05-01,Ford,Ford Escort,1
+Hazelwood,2015-05-01,GMC,GMC Sierra,1
+Hazelwood,2015-06-01,Honda,"Honda Accord, Accord Crosstour",4
+Hazelwood,2015-06-01,Subaru,"Subaru Impreza, Impreza Outback",3
+Hazelwood,2015-06-01,Unknown,Unknown,3
+Hazelwood,2015-06-01,Toyota,Toyota Camry,2
+Hazelwood,2015-06-01,Nissan,Nissan Maxima,2
+Hazelwood,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",2
+Hazelwood,2015-06-01,Acura,Acura Integra,1
+Hazelwood,2015-06-01,Cadillac,Cadillac DeVille,1
+Hazelwood,2015-06-01,Hyundai,Hyundai Tucson,1
+Hazelwood,2015-06-01,Pontiac,Pontiac Aztek,1
+Hazelwood,2015-06-01,Ford,Ford Ranger,1
+Hazelwood,2015-06-01,Nissan,Unknown,1
+Hazelwood,2015-06-01,Toyota,Unknown,1
+Hazelwood,2015-06-01,Subaru,Unknown,1
+Hazelwood,2015-06-01,Ford,Unknown,1
+Hazelwood,2015-07-01,Honda,"Honda Accord, Accord Crosstour",10
+Hazelwood,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",3
+Hazelwood,2015-07-01,Nissan,Nissan Maxima,1
+Hazelwood,2015-07-01,Nissan,Nissan 300ZX,1
+Hazelwood,2015-07-01,Scion,Scion TC,1
+Hazelwood,2015-07-01,Cadillac,Cadillac DeVille,1
+Hazelwood,2015-07-01,GMC,GMC Rally,1
+Hazelwood,2015-07-01,Dodge,Dodge Ram 2500,1
+Hazelwood,2015-08-01,Honda,"Honda Accord, Accord Crosstour",4
+Hazelwood,2015-08-01,Unknown,Unknown,4
+Hazelwood,2015-08-01,Pontiac,Pontiac Grand Prix,2
+Hazelwood,2015-08-01,Harley Davidson,Harley Davidson Motorcycle,1
+Hazelwood,2015-08-01,Mazda,Mazda B2500,1
+Hazelwood,2015-08-01,Chevrolet,Chevrolet C10,1
+Hazelwood,2015-08-01,Chrysler,Chrysler PT Cruiser,1
+Hazelwood,2015-08-01,BMW,BMW 325 Series,1
+Hazelwood,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hazelwood,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hazelwood,2015-08-01,Nissan,Nissan Frontier,1
+Hazelwood,2015-09-01,Unknown,Unknown,7
+Hazelwood,2015-09-01,Honda,"Honda Accord, Accord Crosstour",4
+Hazelwood,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",4
+Hazelwood,2015-09-01,Mazda,Unknown,3
+Hazelwood,2015-09-01,Nissan,Nissan Sentra,2
+Hazelwood,2015-09-01,Honda,Honda CRV,1
+Hazelwood,2015-09-01,Chevrolet,Chevrolet C/K 1500,1
+Hazelwood,2015-09-01,Ford,Ford F150,1
+Hazelwood,2015-09-01,GMC,GMC Envoy,1
+Hazelwood,2015-09-01,Dodge,Dodge Durango,1
+Hazelwood,2015-09-01,Jeep,Jeep Wrangler,1
+Hazelwood,2015-09-01,Jeep,Jeep Grand Cherokee,1
+Hazelwood,2015-10-01,Honda,"Honda Accord, Accord Crosstour",9
+Hazelwood,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",4
+Hazelwood,2015-10-01,Unknown,Unknown,3
+Hazelwood,2015-10-01,Acura,Acura Integra,2
+Hazelwood,2015-10-01,Nissan,Nissan Sentra,2
+Hazelwood,2015-10-01,Subaru,Unknown,2
+Hazelwood,2015-10-01,Honda,Honda CRV,1
+Hazelwood,2015-10-01,Ford,Ford F250,1
+Hazelwood,2015-10-01,Acura,Acura RDX,1
+Hazelwood,2015-10-01,BMW,BMW 745 Series,1
+Hazelwood,2015-10-01,Dodge,Dodge Ram 1500,1
+Hazelwood,2015-10-01,Ford,Ford Econoline 100,1
+Hazelwood,2015-10-01,Nissan,Unknown,1
+Hazelwood,2015-10-01,Honda,Unknown,1
+Hazelwood,2015-11-01,Honda,"Honda Accord, Accord Crosstour",8
+Hazelwood,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",5
+Hazelwood,2015-11-01,Nissan,Unknown,3
+Hazelwood,2015-11-01,Unknown,Unknown,3
+Hazelwood,2015-11-01,Honda,Unknown Honda Model,2
+Hazelwood,2015-11-01,Acura,Acura Integra,2
+Hazelwood,2015-11-01,Nissan,Nissan Truck,2
+Hazelwood,2015-11-01,Dodge,Dodge Dart,1
+Hazelwood,2015-11-01,Dodge,Dodge Ram 3500,1
+Hazelwood,2015-11-01,Dodge,Dodge Truck,1
+Hazelwood,2015-11-01,Chevrolet,Chevrolet Impala,1
+Hazelwood,2015-11-01,Ford,Ford F350,1
+Hazelwood,2015-11-01,Ford,Unknown,1
+Hazelwood,2015-12-01,Honda,"Honda Accord, Accord Crosstour",14
+Hazelwood,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",12
+Hazelwood,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",3
+Hazelwood,2015-12-01,Jeep,Jeep Cherokee,2
+Hazelwood,2015-12-01,Honda,Honda CRV,1
+Hazelwood,2015-12-01,Cadillac,Cadillac SRX,1
+Hazelwood,2015-12-01,Acura,Acura Integra,1
+Hazelwood,2015-12-01,Ford,Ford Escort,1
+Hazelwood,2015-12-01,Ford,Ford Explorer,1
+Hazelwood,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hazelwood,2015-12-01,Unknown,Unknown,1
+Healy Heights,2015-11-01,Honda,Unknown Honda Model,1
+Hillsdale,2015-08-01,Taotao Ind Co or Zhejiang Taotao Industry Co Ltd,Unknown Taotao Ind Co or Zhejiang Taotao Industry Co Ltd Model,1
+Hillsdale,2015-08-01,Toyota,Toyota Sequoia,1
+Hillsdale,2015-09-01,Acura,Acura CL Series,1
+Hillsdale,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hillsdale,2015-10-01,Honda,Honda Motorcycle,2
+Hillsdale,2015-10-01,Suzuki,Suzuki Motorcycle,1
+Hillsdale,2015-10-01,Volkswagen,Volkswagen Jetta,1
+Hillside,2015-05-01,Mercedes-Benz,Mercedes-Benz GLK350,1
+Hillside,2015-07-01,BMW,BMW 330 Series,1
+Hillside,2015-08-01,BMW,BMW 330 Series,1
+Hillside,2015-10-01,Hyundai,Hyundai Elantra,1
+Hillside,2015-10-01,BMW,BMW X3,1
+Hillside,2015-11-01,Suzuki,Suzuki Motorcycle,1
+Hollywood,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hollywood,2015-05-01,Honda,Honda CRV,1
+Hollywood,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Hollywood,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hollywood,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hollywood,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Hollywood,2015-08-01,Chrysler,Chrysler PT Cruiser,1
+Hollywood,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Hollywood,2015-08-01,Toyota,"Toyota Corolla, Corolla IM",1
+Hollywood,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hollywood,2015-10-01,Mazda,Mazda MPV,1
+Hollywood,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Hollywood,2015-11-01,Honda,Honda Prelude,1
+Hollywood,2015-11-01,Subaru,Subaru Forester,1
+Hollywood,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hollywood,2015-12-01,Nissan,Nissan Truck,1
+Hollywood,2015-12-01,Chevrolet,Chevrolet Aveo,1
+Hollywood,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Homestead,2015-09-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Homestead,2015-11-01,Toyota,Toyota Prius,1
+Homestead,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hosford-Abernethy,2015-05-01,Chevrolet,Chevrolet Avalanche,1
+Hosford-Abernethy,2015-05-01,Mazda,Mazda Mazda 3,1
+Hosford-Abernethy,2015-05-01,Dodge,Dodge Ram 2500,1
+Hosford-Abernethy,2015-05-01,Ford,Ford Mustang,1
+Hosford-Abernethy,2015-05-01,GMC,GMC Sierra,1
+Hosford-Abernethy,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Hosford-Abernethy,2015-05-01,Scion,Scion XA,1
+Hosford-Abernethy,2015-05-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Hosford-Abernethy,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hosford-Abernethy,2015-06-01,Toyota,Toyota Camry,1
+Hosford-Abernethy,2015-06-01,Acura,Acura Vigor,1
+Hosford-Abernethy,2015-06-01,Nissan,Unknown Nissan Model,1
+Hosford-Abernethy,2015-06-01,Pontiac,Pontiac Sunfire,1
+Hosford-Abernethy,2015-06-01,Jeep,Jeep Wrangler,1
+Hosford-Abernethy,2015-06-01,Dodge,Dodge Ram 1500,1
+Hosford-Abernethy,2015-07-01,Honda,"Honda Accord, Accord Crosstour",3
+Hosford-Abernethy,2015-07-01,Nissan,Nissan Truck,1
+Hosford-Abernethy,2015-07-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Hosford-Abernethy,2015-07-01,Pontiac,Pontiac Vibe,1
+Hosford-Abernethy,2015-07-01,Dodge,Dodge Intrepid,1
+Hosford-Abernethy,2015-07-01,Genuine Scooters LLC mfgd by Motive Power Industry Co LTD,Genuine Scooters LLC mfgd by Motive Power Industry Co LTD Motorcycle,1
+Hosford-Abernethy,2015-07-01,Subaru,Subaru Forester,1
+Hosford-Abernethy,2015-08-01,Mercedes-Benz,Mercedes-Benz E430,1
+Hosford-Abernethy,2015-08-01,Mitsubishi,Mitsubishi Galant,1
+Hosford-Abernethy,2015-08-01,Ford,Ford Ranger,1
+Hosford-Abernethy,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hosford-Abernethy,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hosford-Abernethy,2015-09-01,Kawasaki,Kawasaki Motorcycle,1
+Hosford-Abernethy,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Hosford-Abernethy,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Hosford-Abernethy,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Hosford-Abernethy,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hosford-Abernethy,2015-10-01,Honda,Honda Motorcycle,1
+Hosford-Abernethy,2015-10-01,Mazda,Mazda Mazda 3,1
+Hosford-Abernethy,2015-10-01,Saab,Saab 900,1
+Hosford-Abernethy,2015-11-01,Ford,Ford Flex,1
+Hosford-Abernethy,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hosford-Abernethy,2015-11-01,Vespa,Vespa Motorcycle,1
+Hosford-Abernethy,2015-11-01,Toyota,Toyota Truck,1
+Hosford-Abernethy,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",4
+Hosford-Abernethy,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Hosford-Abernethy,2015-12-01,Ford,Ford F250,1
+Hosford-Abernethy,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Hosford-Abernethy,2015-12-01,Buick,"Buick Le Sabre, Le Sabre Limited",1
+Hosford-Abernethy,2015-12-01,Nissan,Nissan Versa,1
+Hosford-Abernethy,2015-12-01,Ford,Ford Econoline E350,1
+Humboldt,2015-07-01,Nissan,Nissan Sentra,1
+Humboldt,2015-10-01,Ford,Ford Ranger,1
+Humboldt,2015-10-01,Honda,Honda CRV,1
+Humboldt,2015-11-01,Honda,"Honda Accord, Accord Crosstour",3
+Humboldt,2015-11-01,Chevrolet,Unknown Chevrolet Model,1
+Humboldt,2015-11-01,Chevrolet,Chevrolet Captiva,1
+Humboldt,2015-11-01,Wells Cargo Inc,Wells Cargo Inc Trailer,1
+Humboldt,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Irvington,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Irvington,2015-07-01,Honda,Honda Prelude,1
+Irvington,2015-07-01,Ford,Ford Ranger,1
+Irvington,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Irvington,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Irvington,2015-10-01,Volkswagen,Volkswagen Passat,1
+Irvington,2015-11-01,Unknown Make,Unknown Unknown Make Model,2
+Irvington,2015-11-01,Honda,Honda CRV,1
+Irvington,2015-11-01,Isuzu,Isuzu Truck,1
+Irvington,2015-12-01,Nissan,Unknown Nissan Model,1
+Irvington,2015-12-01,Nissan,Nissan Truck,1
+Irvington,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Irvington,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Kenton,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Kenton,2015-05-01,Toyota,Toyota Prius,1
+Kenton,2015-05-01,Yamaha,Yamaha Motorcycle,1
+Kenton,2015-05-01,Ford,Ford F250,1
+Kenton,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Kenton,2015-06-01,Subaru,Subaru Forester,1
+Kenton,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Kenton,2015-07-01,Toyota,Toyota Truck,1
+Kenton,2015-07-01,Honda,Honda CRV,1
+Kenton,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Kenton,2015-07-01,Ford,Ford Aspire,1
+Kenton,2015-08-01,Chevrolet,Chevrolet Impala,1
+Kenton,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Kenton,2015-09-01,Mazda,Mazda Protege,1
+Kenton,2015-09-01,Toyota,Toyota Yaris or Yaris IM,1
+Kenton,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Kenton,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Kenton,2015-11-01,Toyota,Toyota Camry,1
+Kenton,2015-12-01,Jeep,Jeep Grand Cherokee,1
+Kenton,2015-12-01,Saab,Saab 9000,1
+Kenton,2015-12-01,Suzuki,Suzuki Swift,1
+Kenton,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Kenton,2015-12-01,Honda,Honda Insight,1
+Kenton,2015-12-01,Suzuki,"Suzuki XL7, XL7 Grand Vitara",1
+Kerns,2015-05-01,Honda,"Honda Accord, Accord Crosstour",3
+Kerns,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",3
+Kerns,2015-05-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Kerns,2015-05-01,Acura,Acura TLX,1
+Kerns,2015-05-01,Nissan,Nissan Maxima,1
+Kerns,2015-05-01,Subaru,Subaru Forester,1
+Kerns,2015-05-01,Jeep,Jeep Grand Cherokee,1
+Kerns,2015-05-01,Honda,Honda CRV,1
+Kerns,2015-06-01,Scion,Scion XB,1
+Kerns,2015-06-01,Ford,Ford Explorer,1
+Kerns,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Kerns,2015-07-01,Dodge,Dodge Dakota,1
+Kerns,2015-07-01,Mitsubishi,"Mitsubishi Lancer, Lancer Evolution",1
+Kerns,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Kerns,2015-08-01,Unknown Make,Unknown Unknown Make Model,1
+Kerns,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Kerns,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Kerns,2015-08-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Kerns,2015-08-01,Acura,Acura Integra,1
+Kerns,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Kerns,2015-09-01,Honda,Honda CRV,1
+Kerns,2015-09-01,Chevrolet,Chevrolet Truck,1
+Kerns,2015-09-01,Chevrolet,Chevrolet Express,1
+Kerns,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Kerns,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Kerns,2015-10-01,Toyota,Toyota Truck,1
+Kerns,2015-10-01,Dodge,Dodge Avenger,1
+Kerns,2015-10-01,Honda,Honda Motorcycle,1
+Kerns,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Kerns,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Kerns,2015-11-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Kerns,2015-11-01,Nissan,Nissan Truck,1
+Kerns,2015-11-01,Audi,Audi Allroad,1
+Kerns,2015-11-01,Nissan,Nissan Sentra,1
+Kerns,2015-11-01,Subaru,Subaru Forester,1
+Kerns,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",3
+Kerns,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Kerns,2015-12-01,Honda,Honda CRV,2
+Kerns,2015-12-01,GMC,GMC Savana,1
+Kerns,2015-12-01,Saturn,Saturn SL,1
+Kerns,2015-12-01,Toyota,Toyota Truck,1
+Kerns,2015-12-01,Nissan,Nissan Truck,1
+Kerns,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+King,2015-05-01,Chevrolet,Chevrolet Tahoe,1
+King,2015-05-01,Chevrolet,Chevrolet C/K 1500,1
+King,2015-05-01,Toyota,Toyota Sienna,1
+King,2015-06-01,Subaru,"Subaru Impreza, Impreza Outback",1
+King,2015-07-01,Acura,Acura CL Series,1
+King,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+King,2015-07-01,Ford,Ford F150,1
+King,2015-07-01,Ford,"Ford Taurus, Taurus X",1
+King,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+King,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+King,2015-11-01,Ford,Ford Econoline 100,1
+King,2015-11-01,Cadillac,Cadillac CTS,1
+King,2015-11-01,Acura,Acura Integra,1
+King,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+King,2015-11-01,Nissan,Nissan Truck,1
+King,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Laurelhurst,2015-05-01,Honda,Unknown Honda Model,1
+Laurelhurst,2015-05-01,Toyota,Toyota 4-Runner,1
+Laurelhurst,2015-07-01,Dodge,Unknown Dodge Model,1
+Laurelhurst,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Laurelhurst,2015-07-01,Pace American Inc,Pace American Inc Trailer,1
+Laurelhurst,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Laurelhurst,2015-08-01,Lexus,Unknown Lexus Model,1
+Laurelhurst,2015-08-01,Nissan,Nissan Versa,1
+Laurelhurst,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Laurelhurst,2015-10-01,Jeep,Jeep Patriot,1
+Laurelhurst,2015-11-01,Nissan,Nissan Truck,1
+Laurelhurst,2015-11-01,Acura,Acura MDX,1
+Laurelhurst,2015-11-01,GMC,GMC Sierra,1
+Laurelhurst,2015-11-01,Nissan,Nissan XE,1
+Laurelhurst,2015-11-01,Unlisted motorcycle make,Unlisted motorcycle make Motorcycle,1
+Laurelhurst,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Laurelhurst,2015-12-01,Subaru,Subaru Outback,1
+Laurelhurst,2015-12-01,Acura,Acura Integra,1
+Lents,2015-05-01,Acura,Acura TL Series,1
+Lents,2015-05-01,Toyota,Toyota 4-Runner,1
+Lents,2015-05-01,Acura,Acura Integra,1
+Lents,2015-05-01,Nissan,Nissan Sentra,1
+Lents,2015-05-01,Toyota,"Toyota Corolla, Corolla IM",1
+Lents,2015-05-01,Honda,Honda Odyssey,1
+Lents,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Lents,2015-05-01,Ford,Ford Aerostar,1
+Lents,2015-05-01,Honda,Honda Passport,1
+Lents,2015-05-01,Jeep,Jeep Grand Cherokee,1
+Lents,2015-05-01,Unknown,Unknown,1
+Lents,2015-06-01,Chevrolet,Chevrolet Truck,2
+Lents,2015-06-01,Honda,"Honda Accord, Accord Crosstour",2
+Lents,2015-06-01,Chevrolet,Chevrolet C/K 2500,1
+Lents,2015-06-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Lents,2015-06-01,Chevrolet,"Chevrolet Camaro, Berlinetta",1
+Lents,2015-06-01,Chrysler,Chrysler New Yorker,1
+Lents,2015-06-01,Buick,"Buick Century, Century Limited",1
+Lents,2015-06-01,Ford,Ford Club Wagon E350,1
+Lents,2015-06-01,Hyundai,Hyundai XG Series,1
+Lents,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Lents,2015-06-01,Honda,Unknown,1
+Lents,2015-06-01,Unknown,Unknown,1
+Lents,2015-06-01,Nissan,Unknown,1
+Lents,2015-07-01,Honda,"Honda Accord, Accord Crosstour",5
+Lents,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",3
+Lents,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",3
+Lents,2015-07-01,Nissan,Nissan Truck,1
+Lents,2015-07-01,Nissan,Nissan Frontier,1
+Lents,2015-07-01,Baja USA,Baja USA Motorcycle,1
+Lents,2015-07-01,Jeep,Jeep Cherokee,1
+Lents,2015-07-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Lents,2015-07-01,Honda,Honda Motorcycle,1
+Lents,2015-08-01,Unknown,Unknown,3
+Lents,2015-08-01,Toyota,Toyota Camry,2
+Lents,2015-08-01,GMC,GMC Suburban,1
+Lents,2015-08-01,Jeep,Jeep Grand Cherokee,1
+Lents,2015-08-01,Hyundai,Hyundai Elantra,1
+Lents,2015-08-01,Acura,Acura Integra,1
+Lents,2015-08-01,Dodge,Dodge Ram 1500,1
+Lents,2015-08-01,Nissan,Nissan Sentra,1
+Lents,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Lents,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Lents,2015-08-01,Chevrolet,Chevrolet Caprice,1
+Lents,2015-08-01,Nissan,Unknown,1
+Lents,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",4
+Lents,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",3
+Lents,2015-09-01,Unknown,Unknown,3
+Lents,2015-09-01,Volkswagen,Volkswagen Jetta,2
+Lents,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Lents,2015-09-01,All-Terrain Vehicle,All-Terrain Vehicle Wheels only,2
+Lents,2015-09-01,Acura,Acura Integra,1
+Lents,2015-09-01,Chevrolet,Chevrolet Impala,1
+Lents,2015-09-01,Ford,Ford F250,1
+Lents,2015-09-01,GMC,GMC Yukon,1
+Lents,2015-09-01,GMC,GMC Sierra,1
+Lents,2015-09-01,Subaru,Unknown,1
+Lents,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",5
+Lents,2015-10-01,Honda,"Honda Accord, Accord Crosstour",5
+Lents,2015-10-01,Toyota,Unknown,3
+Lents,2015-10-01,Unknown,Unknown,3
+Lents,2015-10-01,Acura,Acura Integra,2
+Lents,2015-10-01,Chevrolet,"Chevrolet Camaro, Berlinetta",1
+Lents,2015-10-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Lents,2015-10-01,Ford,Ford EXP,1
+Lents,2015-10-01,Chevrolet,Chevrolet Silverado,1
+Lents,2015-10-01,Chevrolet,Chevrolet HHR,1
+Lents,2015-10-01,Chevrolet,Chevrolet C/K 1500,1
+Lents,2015-10-01,Harley Davidson,Harley Davidson Motorcycle,1
+Lents,2015-10-01,Harley Davidson,Unknown,1
+Lents,2015-11-01,Honda,"Honda Accord, Accord Crosstour",7
+Lents,2015-11-01,Saturn,Saturn SL,3
+Lents,2015-11-01,Dodge,Dodge Ram 1500,2
+Lents,2015-11-01,Saturn,Unknown,2
+Lents,2015-11-01,Unknown,Unknown,2
+Lents,2015-11-01,Toyota,Unknown,2
+Lents,2015-11-01,Acura,Acura Integra,1
+Lents,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Lents,2015-11-01,BMW,BMW 335 Series,1
+Lents,2015-11-01,Mercedes-Benz,Mercedes-Benz 230 Series,1
+Lents,2015-11-01,Honda,Honda Motorcycle,1
+Lents,2015-11-01,Nissan,Nissan Truck,1
+Lents,2015-11-01,Nissan,Nissan Sentra,1
+Lents,2015-12-01,Honda,"Honda Accord, Accord Crosstour",4
+Lents,2015-12-01,Unknown,Unknown,4
+Lents,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Lents,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",3
+Lents,2015-12-01,Toyota,Toyota Camry,2
+Lents,2015-12-01,All-Terrain Vehicle,All-Terrain Vehicle Wheels only,1
+Lents,2015-12-01,Ford,Ford Econoline E350,1
+Lents,2015-12-01,Acura,Acura Legend,1
+Lents,2015-12-01,Freightliner Corp,Freightliner Corp Truck,1
+Lents,2015-12-01,Honda,Honda Prelude,1
+Lents,2015-12-01,Honda,Honda CRV,1
+Lents,2015-12-01,Subaru,Unknown,1
+Lents,2015-12-01,Toyota,Unknown,1
+Lloyd,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Lloyd,2015-05-01,Toyota,"Toyota Corolla, Corolla IM",1
+Lloyd,2015-05-01,Acura,Acura Integra,1
+Lloyd,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Lloyd,2015-05-01,Subaru,Subaru GL,1
+Lloyd,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Lloyd,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",2
+Lloyd,2015-07-01,Astronautical BaShan Motorcycle Mfg Co Ltd,Astronautical BaShan Motorcycle Mfg Co Ltd Motorcycle,1
+Lloyd,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Lloyd,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Lloyd,2015-08-01,Ford,Ford F150,1
+Lloyd,2015-08-01,Honda,Honda CRV,1
+Lloyd,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Lloyd,2015-09-01,Kia Motors Corp,Kia Motors Corp Rio,1
+Lloyd,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Lloyd,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Lloyd,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",2
+Lloyd,2015-10-01,Datsun,Datsun 720,1
+Lloyd,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Lloyd,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Lloyd,2015-10-01,Jeep,Jeep Wrangler,1
+Lloyd,2015-10-01,Toyota,Toyota Camry,1
+Lloyd,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",3
+Lloyd,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Lloyd,2015-11-01,Acura,Acura Integra,2
+Lloyd,2015-11-01,Honda,Honda Motorcycle,1
+Lloyd,2015-12-01,GMC,GMC Sierra,2
+Lloyd,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Lloyd,2015-12-01,Acura,Acura Legend,1
+Lloyd,2015-12-01,Nissan,Nissan Sentra,1
+Lloyd,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Lloyd,2015-12-01,Saturn,Saturn SL,1
+Lloyd,2015-12-01,Acura,Acura TLX,1
+Lloyd,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Madison South,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Madison South,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Madison South,2015-05-01,Ford,Ford Bronco Models,1
+Madison South,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Madison South,2015-05-01,Suzuki,Suzuki Motorcycle,1
+Madison South,2015-06-01,Chevrolet,Unknown Chevrolet Model,1
+Madison South,2015-06-01,Buick,"Buick Le Sabre, Le Sabre Limited",1
+Madison South,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Madison South,2015-07-01,Yamaha,Unknown Yamaha Model,1
+Madison South,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Madison South,2015-08-01,Ford,Ford F150,1
+Madison South,2015-08-01,Toyota,Toyota Truck,1
+Madison South,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Madison South,2015-09-01,Acura,Acura Integra,1
+Madison South,2015-11-01,Saturn,Unknown Saturn Model,1
+Madison South,2015-11-01,Honda,Honda CRV,1
+Madison South,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Madison South,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Madison South,2015-11-01,Toyota,"Toyota Corolla, Corolla IM",1
+Madison South,2015-12-01,Honda,"Honda Accord, Accord Crosstour",4
+Madison South,2015-12-01,Nissan,Unknown Nissan Model,1
+Madison South,2015-12-01,Audi,Unknown Audi Model,1
+Madison South,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Madison South,2015-12-01,Acura,Acura Integra,1
+Madison South,2015-12-01,Volkswagen,Volkswagen Jetta,1
+Maplewood,2015-09-01,Yamaha,Yamaha Motorcycle,1
+Markham,2015-05-01,Ford,Ford F250,1
+Markham,2015-05-01,Ford,Ford Flex,1
+Markham,2015-11-01,Kawasaki,Kawasaki Motorcycle,1
+Mill Park,2015-05-01,Nissan,Nissan Altima,2
+Mill Park,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Mill Park,2015-05-01,Chevrolet,Chevrolet Suburban,1
+Mill Park,2015-05-01,Chevrolet,Chevrolet Colorado,1
+Mill Park,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Mill Park,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",2
+Mill Park,2015-06-01,Toyota,Toyota Camry,1
+Mill Park,2015-06-01,Nissan,Nissan Quest,1
+Mill Park,2015-07-01,Honda,"Honda Accord, Accord Crosstour",3
+Mill Park,2015-07-01,Toyota,Toyota RAV4,1
+Mill Park,2015-07-01,Toyota,Toyota Camry,1
+Mill Park,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Mill Park,2015-07-01,Dodge,Dodge Neon,1
+Mill Park,2015-07-01,Volkswagen,"Volkswagen Beetle, Super Beetle, Bug",1
+Mill Park,2015-08-01,Ford,Ford Expedition,1
+Mill Park,2015-08-01,Acura,Acura Integra,1
+Mill Park,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Mill Park,2015-08-01,Ford,Ford Ranger,1
+Mill Park,2015-09-01,Honda,"Honda Accord, Accord Crosstour",4
+Mill Park,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",2
+Mill Park,2015-09-01,Acura,Acura Integra,1
+Mill Park,2015-09-01,Toyota,Toyota Camry,1
+Mill Park,2015-10-01,Honda,"Honda Accord, Accord Crosstour",3
+Mill Park,2015-10-01,Toyota,Toyota Land Cruiser,1
+Mill Park,2015-10-01,Toyota,"Toyota Corolla, Corolla IM",1
+Mill Park,2015-10-01,Subaru,Subaru Forester,1
+Mill Park,2015-10-01,Chevrolet,Chevrolet TrailBlazer,1
+Mill Park,2015-10-01,Toyota,Toyota Camry,1
+Mill Park,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Mill Park,2015-11-01,Toyota,Toyota 4-Runner,1
+Mill Park,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Mill Park,2015-12-01,Lexus,Lexus RX300,1
+Mill Park,2015-12-01,Plymouth,Plymouth Voyager,1
+Mill Park,2015-12-01,Toyota,Toyota Camry,1
+Mill Park,2015-12-01,Jeep,Jeep Grand Cherokee,1
+Mill Park,2015-12-01,Honda,Honda CRV,1
+Montavilla,2015-05-01,Toyota,Toyota Prius,2
+Montavilla,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",2
+Montavilla,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Montavilla,2015-05-01,Mazda,Mazda B2000,1
+Montavilla,2015-05-01,Honda,Honda Passport,1
+Montavilla,2015-05-01,Lincoln,Lincoln MKZ,1
+Montavilla,2015-05-01,Ford,Ford Econoline E550,1
+Montavilla,2015-05-01,Pontiac,Pontiac Grand Prix,1
+Montavilla,2015-05-01,Dodge,Dodge Durango,1
+Montavilla,2015-06-01,Chevrolet,Chevrolet Impala,1
+Montavilla,2015-06-01,Kawasaki,Unknown Kawasaki Model,1
+Montavilla,2015-06-01,Oldsmobile,Oldsmobile Alero,1
+Montavilla,2015-06-01,Kia Motors Corp,Kia Motors Corp Spectra,1
+Montavilla,2015-06-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Montavilla,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Montavilla,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",3
+Montavilla,2015-07-01,Chevrolet,Chevrolet Cobalt,1
+Montavilla,2015-07-01,Toyota,"Toyota Corolla, Corolla IM",1
+Montavilla,2015-07-01,Ducati,Ducati Motorcycle,1
+Montavilla,2015-07-01,Suzuki,Suzuki Grand Vitara,1
+Montavilla,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Montavilla,2015-07-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Montavilla,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Montavilla,2015-08-01,Nissan,Nissan Maxima,1
+Montavilla,2015-08-01,Chevrolet,Chevrolet C/K 1500,1
+Montavilla,2015-08-01,Ford,Ford Econoline E250,1
+Montavilla,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Montavilla,2015-08-01,Nissan,Nissan Altima,1
+Montavilla,2015-08-01,Toyota,Toyota Camry,1
+Montavilla,2015-08-01,Toyota,"Toyota Corolla, Corolla IM",1
+Montavilla,2015-08-01,Dodge,Dodge Truck,1
+Montavilla,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",3
+Montavilla,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Montavilla,2015-09-01,Acura,Acura TL Series,1
+Montavilla,2015-09-01,Subaru,Subaru Loyale,1
+Montavilla,2015-09-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Montavilla,2015-09-01,Jeep,Jeep Wagoneer,1
+Montavilla,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Montavilla,2015-10-01,Honda,Honda CRV,2
+Montavilla,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Montavilla,2015-10-01,GMC,GMC Sierra,1
+Montavilla,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Montavilla,2015-10-01,Honda,Honda Passport,1
+Montavilla,2015-10-01,Hyundai,Hyundai Elantra,1
+Montavilla,2015-10-01,Nissan,Nissan 350Z,1
+Montavilla,2015-10-01,Chevrolet,Chevrolet TrailBlazer,1
+Montavilla,2015-10-01,Hyundai,Hyundai Santa Fe,1
+Montavilla,2015-10-01,Chevrolet,Chevrolet Suburban,1
+Montavilla,2015-11-01,Honda,"Honda Accord, Accord Crosstour",4
+Montavilla,2015-11-01,Unknown,Unknown,3
+Montavilla,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Montavilla,2015-11-01,BMW,BMW 645 Series,1
+Montavilla,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Montavilla,2015-11-01,Ford,Ford F150,1
+Montavilla,2015-11-01,Kia Motors Corp,Kia Motors Corp Rio,1
+Montavilla,2015-11-01,Ford,Ford Probe,1
+Montavilla,2015-11-01,Mazda,Mazda Protege,1
+Montavilla,2015-11-01,Jeep,Jeep Grand Cherokee,1
+Montavilla,2015-11-01,Big Tex,Big Tex Trailer,1
+Montavilla,2015-12-01,Honda,"Honda Accord, Accord Crosstour",3
+Montavilla,2015-12-01,Honda,Honda CRV,2
+Montavilla,2015-12-01,Mercedes-Benz,Mercedes-Benz GLK350,2
+Montavilla,2015-12-01,Ford,Ford Econoline E150,1
+Montavilla,2015-12-01,Chevrolet,Chevrolet Tahoe,1
+Montavilla,2015-12-01,Chevrolet,Chevrolet C10,1
+Montavilla,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Montavilla,2015-12-01,Plymouth,Plymouth Breeze,1
+Montavilla,2015-12-01,Ford,Ford F150,1
+Mt Scott-Arleta,2015-05-01,Toyota,Toyota T-100,1
+Mt Scott-Arleta,2015-05-01,Suzuki,Unknown Suzuki Model,1
+Mt Scott-Arleta,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Mt Scott-Arleta,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Mt Scott-Arleta,2015-05-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Mt Scott-Arleta,2015-05-01,Honda,Honda CRV,1
+Mt Scott-Arleta,2015-06-01,Nissan,Nissan Truck,2
+Mt Scott-Arleta,2015-06-01,Yamaha,Unknown Yamaha Model,1
+Mt Scott-Arleta,2015-06-01,Suzuki,Unknown Suzuki Model,1
+Mt Scott-Arleta,2015-06-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Mt Scott-Arleta,2015-06-01,Yamaha,Yamaha Motorcycle,1
+Mt Scott-Arleta,2015-06-01,All-Terrain Vehicle,All-Terrain Vehicle Wheels only,1
+Mt Scott-Arleta,2015-07-01,Toyota,Toyota Truck,1
+Mt Scott-Arleta,2015-07-01,Dodge,Dodge Ram 1500,1
+Mt Scott-Arleta,2015-07-01,Honda,Honda Motorcycle,1
+Mt Scott-Arleta,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",3
+Mt Scott-Arleta,2015-08-01,Subaru,Subaru Forester,1
+Mt Scott-Arleta,2015-08-01,Saturn,Saturn SW,1
+Mt Scott-Arleta,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",2
+Mt Scott-Arleta,2015-09-01,Ford,Ford Focus,1
+Mt Scott-Arleta,2015-09-01,Acura,Acura Integra,1
+Mt Scott-Arleta,2015-10-01,Chevrolet,Chevrolet Impala,1
+Mt Scott-Arleta,2015-10-01,Kia Motors Corp,Kia Motors Corp Spectra,1
+Mt Scott-Arleta,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Mt Scott-Arleta,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Mt Scott-Arleta,2015-11-01,Saturn,Saturn SW,1
+Mt Scott-Arleta,2015-11-01,Saturn,Saturn SL,1
+Mt Scott-Arleta,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Mt Scott-Arleta,2015-12-01,Toyota,Toyota Tacoma,1
+Mt Scott-Arleta,2015-12-01,Ford,Ford F150,1
+Mt Scott-Arleta,2015-12-01,BMW,BMW Motorcycle,1
+Mt Scott-Arleta,2015-12-01,Toyota,Toyota Truck,1
+Mt Scott-Arleta,2015-12-01,Honda,Honda CRV,1
+Mt Scott-Arleta,2015-12-01,Nissan,Nissan Sentra,1
+Mt Scott-Arleta,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Mt Tabor,2015-05-01,Nissan,Nissan Truck,1
+Mt Tabor,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Mt Tabor,2015-05-01,Kymco,Kymco Motorcycle,1
+Mt Tabor,2015-07-01,Volvo,Volvo 1800 Series,1
+Mt Tabor,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Mt Tabor,2015-09-01,Honda,Unknown Honda Model,2
+Mt Tabor,2015-09-01,Volkswagen,"Volkswagen Beetle, Super Beetle, Bug",1
+Mt Tabor,2015-09-01,Volkswagen,Volkswagen Jetta,1
+Mt Tabor,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Mt Tabor,2015-10-01,Honda,"Honda Accord, Accord Crosstour",3
+Mt Tabor,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",2
+Mt Tabor,2015-10-01,Volkswagen,Volkswagen Passat,1
+Mt Tabor,2015-10-01,Toyota,Toyota MR2,1
+Mt Tabor,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Mt Tabor,2015-10-01,Acura,Acura Integra,1
+Mt Tabor,2015-11-01,Toyota,Toyota Camry,1
+Mt Tabor,2015-11-01,Subaru,Subaru Forester,1
+Mt Tabor,2015-11-01,Nissan,Nissan Truck,1
+Mt Tabor,2015-11-01,Volvo,Volvo V70,1
+Mt Tabor,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Mt Tabor,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Mt Tabor,2015-12-01,Subaru,Subaru Outback,1
+Mt Tabor,2015-12-01,Honda,Honda CRV,1
+Mt Tabor,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Mt Tabor,2015-12-01,Ford,Ford Ranger,1
+Multnomah,2015-05-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Multnomah,2015-05-01,Ford,Ford F350,1
+Multnomah,2015-06-01,Acura,Acura TL Series,2
+Multnomah,2015-06-01,Acura,Acura Integra,1
+Multnomah,2015-07-01,Kawasaki,Unknown Kawasaki Model,1
+Multnomah,2015-08-01,Kawasaki,Kawasaki Motorcycle,1
+Multnomah,2015-08-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Multnomah,2015-09-01,Yamaha,Yamaha Motorcycle,1
+Multnomah,2015-09-01,Triumph Motor Co,Triumph Motor Co Motorcycle,1
+Multnomah,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Multnomah,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Multnomah,2015-10-01,Toyota,Toyota Truck,1
+Multnomah,2015-10-01,Toyota,Toyota Camry,1
+Multnomah,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Multnomah,2015-11-01,Volkswagen,Volkswagen Jetta,1
+Multnomah,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Multnomah,2015-12-01,Oldsmobile,Oldsmobile Alero,1
+Multnomah,2015-12-01,Hyundai,Hyundai Elantra,1
+North Tabor,2015-05-01,Nissan,Nissan XTerra,1
+North Tabor,2015-05-01,Honda,Honda Prelude,1
+North Tabor,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+North Tabor,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+North Tabor,2015-07-01,Toyota,Toyota Tacoma,1
+North Tabor,2015-07-01,GMC,GMC Yukon,1
+North Tabor,2015-08-01,Jeep,Jeep Cherokee,1
+North Tabor,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+North Tabor,2015-09-01,Mercedes-Benz,Mercedes-Benz GLK350,1
+North Tabor,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+North Tabor,2015-11-01,Toyota,Toyota 4-Runner,1
+North Tabor,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+North Tabor,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+North Tabor,2015-12-01,Honda,Honda CRV,3
+North Tabor,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Northwest,2015-05-01,Honda,"Honda Accord, Accord Crosstour",5
+Northwest,2015-05-01,Honda,Honda CRV,2
+Northwest,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",2
+Northwest,2015-05-01,Acura,Acura CL Series,1
+Northwest,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Northwest,2015-05-01,Ford,Ford F150,1
+Northwest,2015-05-01,Volkswagen,Volkswagen Golf,1
+Northwest,2015-05-01,Saturn,Saturn SW,1
+Northwest,2015-05-01,Isuzu,Isuzu Rodeo,1
+Northwest,2015-06-01,Honda,"Honda Accord, Accord Crosstour",4
+Northwest,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",4
+Northwest,2015-06-01,Honda,Honda CRV,2
+Northwest,2015-06-01,Acura,Acura TL Series,1
+Northwest,2015-06-01,Volvo,Volvo V40,1
+Northwest,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Northwest,2015-06-01,Land Rover,Land Rover Discovery or Discovery Sport,1
+Northwest,2015-06-01,Dodge,Dodge Stratus,1
+Northwest,2015-06-01,Honda,Honda Prelude,1
+Northwest,2015-07-01,Honda,"Honda Accord, Accord Crosstour",4
+Northwest,2015-07-01,Acura,Acura Integra,2
+Northwest,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",2
+Northwest,2015-07-01,Nissan,Nissan Truck,1
+Northwest,2015-07-01,Genuine Scooters LLC mfgd by Motive Power Industry Co LTD,Unknown Genuine Scooters LLC mfgd by Motive Power Industry Co LTD Model,1
+Northwest,2015-07-01,Vespa,Vespa Motorcycle,1
+Northwest,2015-07-01,Volkswagen,Volkswagen GTI,1
+Northwest,2015-07-01,Mazda,Mazda Mazda 5,1
+Northwest,2015-07-01,Volkswagen,"Volkswagen Beetle, Super Beetle, Bug",1
+Northwest,2015-08-01,Honda,Honda CRV,2
+Northwest,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Northwest,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Northwest,2015-08-01,Mazda,Mazda Protege,1
+Northwest,2015-08-01,SYM USA/Sanyang Motorcycle,SYM USA/Sanyang Motorcycle Motorcycle,1
+Northwest,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Northwest,2015-09-01,Toyota,Toyota Camry,3
+Northwest,2015-09-01,Honda,"Honda Accord, Accord Crosstour",3
+Northwest,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",2
+Northwest,2015-09-01,Honda,Honda Pilot,1
+Northwest,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Northwest,2015-09-01,Toyota,Toyota Highlander,1
+Northwest,2015-10-01,Honda,Honda Motorcycle,1
+Northwest,2015-10-01,BMW,BMW 318 Series,1
+Northwest,2015-10-01,Ford,Ford Escort,1
+Northwest,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Northwest,2015-10-01,Nissan,Nissan Truck,1
+Northwest,2015-10-01,Nissan,Nissan Murano,1
+Northwest,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Northwest,2015-11-01,Toyota,Unknown,3
+Northwest,2015-11-01,Acura,Acura Integra,1
+Northwest,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Northwest,2015-11-01,Harley Davidson,Harley Davidson Motorcycle,1
+Northwest,2015-11-01,Suzuki,Suzuki Motorcycle,1
+Northwest,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Northwest,2015-11-01,Kia Motors Corp,Kia Motors Corp Rio,1
+Northwest,2015-11-01,Honda,Honda Element,1
+Northwest,2015-11-01,Subaru,Subaru Outback,1
+Northwest,2015-11-01,Cadillac,Cadillac Escalade,1
+Northwest,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Northwest,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",8
+Northwest,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Northwest,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Northwest,2015-12-01,Acura,Acura Integra,2
+Northwest,2015-12-01,Honda,Honda Motorcycle,1
+Northwest,2015-12-01,Saturn,Saturn SL,1
+Northwest,2015-12-01,Toyota,Toyota Camry,1
+Northwest,2015-12-01,Ford,Ford Explorer,1
+Northwest,2015-12-01,Ford,Ford Edge,1
+Northwest,2015-12-01,Hyundai,Hyundai Elantra,1
+Northwest,2015-12-01,Unknown,Unknown,1
+Northwest Industrial,2015-05-01,Freightliner Corp,Freightliner Corp Truck,1
+Not In a Neighborhood,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Not In a Neighborhood,2015-05-01,Honda,Honda CRV,1
+Not In a Neighborhood,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Not In a Neighborhood,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Not In a Neighborhood,2015-07-01,Acura,Acura Integra,2
+Not In a Neighborhood,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",2
+Not In a Neighborhood,2015-07-01,Toyota,Toyota Highlander,1
+Not In a Neighborhood,2015-07-01,Chevrolet,Chevrolet Suburban,1
+Not In a Neighborhood,2015-08-01,Honda,"Honda Accord, Accord Crosstour",3
+Not In a Neighborhood,2015-08-01,Chevrolet,Chevrolet Astro,1
+Not In a Neighborhood,2015-08-01,Chevrolet,Chevrolet C/K 2500,1
+Not In a Neighborhood,2015-08-01,Isuzu,Isuzu Rodeo,1
+Not In a Neighborhood,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Not In a Neighborhood,2015-09-01,Acura,Acura Integra,2
+Not In a Neighborhood,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",2
+Not In a Neighborhood,2015-09-01,Honda,Unknown Honda Model,1
+Not In a Neighborhood,2015-09-01,Toyota,Toyota Camry,1
+Not In a Neighborhood,2015-09-01,Mazda,Mazda B2200,1
+Not In a Neighborhood,2015-09-01,Lexus,Lexus RX350,1
+Not In a Neighborhood,2015-10-01,Chevrolet,Chevrolet C10,1
+Not In a Neighborhood,2015-10-01,Ford,Ford Truck,1
+Not In a Neighborhood,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Not In a Neighborhood,2015-10-01,Volvo,Volvo 850 Series,1
+Not In a Neighborhood,2015-11-01,Honda,"Honda Accord, Accord Crosstour",3
+Not In a Neighborhood,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Not In a Neighborhood,2015-11-01,Suzuki,Unknown Suzuki Model,1
+Not In a Neighborhood,2015-11-01,Honda,Honda Motorcycle,1
+Not In a Neighborhood,2015-11-01,Honda,Honda CRV,1
+Not In a Neighborhood,2015-11-01,Ford,Ford Expedition,1
+Not In a Neighborhood,2015-11-01,Kawasaki,Kawasaki Motorcycle,1
+Not In a Neighborhood,2015-11-01,Acura,Acura Integra,1
+Not In a Neighborhood,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Not In a Neighborhood,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Old Town/Chinatown,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Old Town/Chinatown,2015-05-01,Toyota,"Toyota Corolla, Corolla IM",1
+Old Town/Chinatown,2015-05-01,Dodge,Dodge Challenger,1
+Old Town/Chinatown,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Old Town/Chinatown,2015-06-01,Acura,Acura Integra,1
+Old Town/Chinatown,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Old Town/Chinatown,2015-06-01,Mercury,Mercury Topaz,1
+Old Town/Chinatown,2015-06-01,Scion,Scion XB,1
+Old Town/Chinatown,2015-06-01,Volvo,Volvo XC70,1
+Old Town/Chinatown,2015-07-01,Chevrolet,Chevrolet Sonic,1
+Old Town/Chinatown,2015-07-01,Unknown Make,Unknown Unknown Make Model,1
+Old Town/Chinatown,2015-07-01,Chevrolet,Chevrolet Astro,1
+Old Town/Chinatown,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Old Town/Chinatown,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",2
+Old Town/Chinatown,2015-08-01,Toyota,Unknown Toyota Model,1
+Old Town/Chinatown,2015-08-01,Toyota,Toyota Camry,1
+Old Town/Chinatown,2015-09-01,Toyota,Toyota Tacoma,1
+Old Town/Chinatown,2015-09-01,Acura,Acura TSX,1
+Old Town/Chinatown,2015-09-01,Nissan,Nissan Versa,1
+Old Town/Chinatown,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",3
+Old Town/Chinatown,2015-10-01,Ford,Ford Fiesta,1
+Old Town/Chinatown,2015-10-01,Toyota,Toyota Camry,1
+Old Town/Chinatown,2015-10-01,Toyota,Toyota Matrix,1
+Old Town/Chinatown,2015-10-01,Honda,Honda CRV,1
+Old Town/Chinatown,2015-11-01,Honda,"Honda Accord, Accord Crosstour",3
+Old Town/Chinatown,2015-11-01,Pontiac,Pontiac Vibe,1
+Old Town/Chinatown,2015-11-01,Toyota,Toyota Avalon,1
+Old Town/Chinatown,2015-11-01,Ford,Ford Focus,1
+Old Town/Chinatown,2015-11-01,BMW,BMW 745 Series,1
+Old Town/Chinatown,2015-11-01,Toyota,Toyota Truck,1
+Old Town/Chinatown,2015-11-01,Honda,Honda CRV,1
+Old Town/Chinatown,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Old Town/Chinatown,2015-11-01,Subaru,Subaru Outback,1
+Old Town/Chinatown,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Old Town/Chinatown,2015-12-01,Kia Motors Corp,Kia Motors Corp Soul,1
+Old Town/Chinatown,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Old Town/Chinatown,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Old Town/Chinatown,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Overlook,2015-05-01,Nissan,Nissan XE,1
+Overlook,2015-06-01,Toyota,Toyota Camry,1
+Overlook,2015-06-01,Yamaha,Unknown Yamaha Model,1
+Overlook,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Overlook,2015-06-01,Ford,Ford F250,1
+Overlook,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Overlook,2015-07-01,Yamaha,Unknown Yamaha Model,1
+Overlook,2015-07-01,Chevrolet,Chevrolet Sonic,1
+Overlook,2015-08-01,Ford,Ford F250,1
+Overlook,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Overlook,2015-08-01,Honda,Honda CRV,1
+Overlook,2015-08-01,Toyota,Toyota 4-Runner,1
+Overlook,2015-09-01,Kymco,Kymco Motorcycle,1
+Overlook,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Overlook,2015-09-01,Dodge,Dodge Ram 1500,1
+Overlook,2015-10-01,Mazda,Mazda Protege,1
+Overlook,2015-10-01,Toyota,Toyota Truck,1
+Overlook,2015-10-01,Ford,Ford Ranger,1
+Overlook,2015-10-01,Mazda,Mazda MPV,1
+Overlook,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Overlook,2015-11-01,Unknown Make,Unknown Unknown Make Model,1
+Overlook,2015-11-01,Toyota,Toyota Camry,1
+Overlook,2015-11-01,Yamaha,Yamaha Motorcycle,1
+Overlook,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Overlook,2015-12-01,Mazda,Mazda Mazda 3,1
+Overlook,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Parkrose,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",3
+Parkrose,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Parkrose,2015-05-01,Toyota,"Toyota Corolla, Corolla IM",1
+Parkrose,2015-05-01,Ford,Ford Truck,1
+Parkrose,2015-05-01,Honda,Honda CRV,1
+Parkrose,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Parkrose,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Parkrose,2015-06-01,Toyota,Unknown Toyota Model,1
+Parkrose,2015-06-01,Subaru,Subaru Outback Sport,1
+Parkrose,2015-06-01,Dodge,Dodge Dakota,1
+Parkrose,2015-06-01,Dodge,Dodge Durango,1
+Parkrose,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Parkrose,2015-07-01,Chevrolet,Chevrolet Cruze,1
+Parkrose,2015-07-01,Chrysler,Chrysler 300 300C 300M SRT8,1
+Parkrose,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Parkrose,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Parkrose,2015-07-01,Volkswagen,Volkswagen Jetta,1
+Parkrose,2015-08-01,Honda,"Honda Accord, Accord Crosstour",2
+Parkrose,2015-08-01,Moto Guzzi (Italy),Moto Guzzi,2
+Parkrose,2015-08-01,Moto Guzzi (Italy),Unknown Moto Guzzi,1
+Parkrose,2015-08-01,Triumph (Use TRUM CYL for motorcycles),Unknown Triumph,1
+Parkrose,2015-08-01,Ford,Unknown Ford Model,1
+Parkrose,2015-08-01,Nissan,Nissan Sentra,1
+Parkrose,2015-08-01,Chevrolet,Chevrolet C/K 1500,1
+Parkrose,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Parkrose,2015-08-01,Isuzu,Isuzu Trooper,1
+Parkrose,2015-08-01,Toyota,Toyota Camry,1
+Parkrose,2015-08-01,Unknown,Unknown,1
+Parkrose,2015-09-01,Nissan,Nissan Truck,2
+Parkrose,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Parkrose,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Parkrose,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Parkrose,2015-09-01,Subaru,Subaru Forester,1
+Parkrose,2015-09-01,Buick,"Buick Regal, Regal Limited",1
+Parkrose,2015-09-01,Honda,Honda Prelude,1
+Parkrose,2015-09-01,Hyundai,Hyundai Elantra,1
+Parkrose,2015-09-01,Honda,Honda CRV,1
+Parkrose,2015-10-01,Honda,"Honda Accord, Accord Crosstour",4
+Parkrose,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",3
+Parkrose,2015-10-01,Honda,Honda CRV,2
+Parkrose,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Parkrose,2015-10-01,Toyota,Unknown Toyota Model,1
+Parkrose,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Parkrose,2015-10-01,Chevrolet,Chevrolet Tahoe,1
+Parkrose,2015-10-01,Jeep,Jeep Grand Cherokee,1
+Parkrose,2015-10-01,Taizhou Zhongneng Motorcycle Co Ltd or Zhongneng Motorcycle,Taizhou Zhongneng Motorcycle Co Ltd or Zhongneng Motorcycle Motorcycle,1
+Parkrose,2015-10-01,Kia Motors Corp,Kia Motors Corp Sportage,1
+Parkrose,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Parkrose,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Parkrose,2015-11-01,Toyota,Toyota Tacoma,1
+Parkrose,2015-11-01,Toyota,Toyota 4-Runner,1
+Parkrose,2015-11-01,Kawasaki,Kawasaki Motorcycle,1
+Parkrose,2015-11-01,Ford,Ford F250,1
+Parkrose,2015-12-01,Toyota,Unknown,3
+Parkrose,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Parkrose,2015-12-01,Acura,Acura Legend,1
+Parkrose,2015-12-01,Buick,"Buick Le Sabre, Le Sabre Limited",1
+Parkrose,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Parkrose,2015-12-01,Ford,Ford F350,1
+Parkrose,2015-12-01,Oldsmobile,Oldsmobile Alero,1
+Parkrose,2015-12-01,Acura,Acura Integra,1
+Parkrose,2015-12-01,Chevrolet,"Chevrolet Camaro, Berlinetta",1
+Parkrose,2015-12-01,Honda,Honda CRV,1
+Parkrose,2015-12-01,Ford,Ford Expedition,1
+Parkrose,2015-12-01,Ford,Unknown,1
+Parkrose Heights,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Parkrose Heights,2015-05-01,Honda,Honda Prelude,1
+Parkrose Heights,2015-05-01,Mazda,Mazda Mazda 3,1
+Parkrose Heights,2015-06-01,Yamaha,Unknown Yamaha Model,1
+Parkrose Heights,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Parkrose Heights,2015-06-01,Triumph Motor Co,Triumph Motor Co Motorcycle,1
+Parkrose Heights,2015-07-01,Nissan,Nissan Altima,1
+Parkrose Heights,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Parkrose Heights,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Parkrose Heights,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Parkrose Heights,2015-08-01,Mercedes-Benz,Mercedes-Benz C230,1
+Parkrose Heights,2015-09-01,GMC,GMC Sierra,1
+Parkrose Heights,2015-09-01,Toyota,Toyota Avalon,1
+Parkrose Heights,2015-10-01,Toyota,Toyota Tacoma,1
+Parkrose Heights,2015-10-01,BMW,BMW M5,1
+Parkrose Heights,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Parkrose Heights,2015-11-01,Oldsmobile,"Oldsmobile Cutlass, Cutlass Ciera, Supreme",1
+Parkrose Heights,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Parkrose Heights,2015-12-01,Infiniti,Infiniti G20,1
+Pearl,2015-05-01,Honda,"Honda Accord, Accord Crosstour",2
+Pearl,2015-05-01,Mazda,Mazda Mazda 6,1
+Pearl,2015-05-01,Ford,Ford Explorer,1
+Pearl,2015-05-01,Mazda,Mazda RX7,1
+Pearl,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Pearl,2015-05-01,Toyota,Toyota Camry,1
+Pearl,2015-06-01,Honda,"Honda Accord, Accord Crosstour",2
+Pearl,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",2
+Pearl,2015-06-01,Toyota,"Toyota Corolla, Corolla IM",1
+Pearl,2015-06-01,Pontiac,Pontiac Vibe,1
+Pearl,2015-06-01,Subaru,Subaru Forester,1
+Pearl,2015-07-01,Ford,Ford Explorer,1
+Pearl,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Pearl,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Pearl,2015-08-01,Honda,"Honda Accord, Accord Crosstour",2
+Pearl,2015-08-01,Toyota,Toyota SR5,1
+Pearl,2015-09-01,Honda,"Honda Accord, Accord Crosstour",4
+Pearl,2015-10-01,Yamaha,Unknown Yamaha Model,1
+Pearl,2015-10-01,Toyota,Toyota Camry,1
+Pearl,2015-10-01,BMW,BMW 325i *(DO NOT USE CODE),1
+Pearl,2015-11-01,Honda,Honda CRV,1
+Pearl,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Pearl,2015-11-01,Subaru,Subaru Outback,1
+Pearl,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Pearl,2015-11-01,Mazda,Mazda Truck,1
+Pearl,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Pearl,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Pearl,2015-12-01,Nissan,Unknown Nissan Model,1
+Pearl,2015-12-01,Toyota,Toyota Truck,1
+Pearl,2015-12-01,BMW,BMW X3,1
+Pearl,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Pearl,2015-12-01,Fiat,"Fiat 500, 500C, 500X, 500L Trekking",1
+Piedmont,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Piedmont,2015-06-01,Nissan,Nissan Maxima,1
+Piedmont,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Piedmont,2015-06-01,International Harvester,International Harvester Truck,1
+Piedmont,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Piedmont,2015-08-01,Kawasaki,Kawasaki Motorcycle,1
+Piedmont,2015-08-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Piedmont,2015-08-01,Chrysler,Chrysler 300 300C 300M SRT8,1
+Piedmont,2015-09-01,Dodge,Dodge Dakota,1
+Piedmont,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Piedmont,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Piedmont,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Piedmont,2015-11-01,Toyota,Toyota Camry,1
+Piedmont,2015-11-01,Honda,Honda CRV,1
+Piedmont,2015-11-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Piedmont,2015-12-01,Jeep,Jeep Patriot,1
+Pleasant Valley,2015-06-01,Ford,Ford Crown Victoria,1
+Pleasant Valley,2015-07-01,Honda,Honda CRV,1
+Pleasant Valley,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Pleasant Valley,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Pleasant Valley,2015-08-01,Acura,Acura Integra,1
+Pleasant Valley,2015-08-01,Honda,Honda Motorcycle,1
+Pleasant Valley,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Pleasant Valley,2015-10-01,Toyota,Toyota Camry,1
+Pleasant Valley,2015-10-01,Toyota,Toyota 4-Runner,1
+Pleasant Valley,2015-10-01,Acura,Acura Integra,1
+Pleasant Valley,2015-11-01,Acura,Acura Integra,2
+Pleasant Valley,2015-11-01,Toyota,Toyota Avalon,1
+Pleasant Valley,2015-12-01,Ford,Ford F150,2
+Pleasant Valley,2015-12-01,Dodge,Dodge Dakota,1
+Pleasant Valley,2015-12-01,Ford,Ford F550,1
+Pleasant Valley,2015-12-01,Nissan,Nissan 720,1
+Pleasant Valley,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Pleasant Valley,2015-12-01,Harley Davidson,Harley Davidson Motorcycle,1
+Portsmouth,2015-05-01,Toyota,Toyota Truck,1
+Portsmouth,2015-05-01,Chevrolet,Chevrolet Blazer,1
+Portsmouth,2015-05-01,Dodge,Dodge Dakota,1
+Portsmouth,2015-06-01,Jeep,Jeep Cherokee,1
+Portsmouth,2015-07-01,Honda,Honda Motorcycle,2
+Portsmouth,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Portsmouth,2015-07-01,BMW,BMW 323 Series,1
+Portsmouth,2015-07-01,Ford,Ford Econoline E250,1
+Portsmouth,2015-08-01,Chevrolet,Chevrolet Caprice,1
+Portsmouth,2015-08-01,Chevrolet,Chevrolet Silverado,1
+Portsmouth,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Portsmouth,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Portsmouth,2015-10-01,Acura,Acura Integra,2
+Portsmouth,2015-10-01,Hyundai,Unknown Hyundai Model,1
+Portsmouth,2015-10-01,Ford,Ford Focus,1
+Portsmouth,2015-10-01,Ford,"Ford Taurus, Taurus X",1
+Portsmouth,2015-10-01,Audi,Audi Q7,1
+Portsmouth,2015-10-01,Toyota,Toyota Camry,1
+Portsmouth,2015-10-01,Ford,Ford Windstar,1
+Portsmouth,2015-11-01,Honda,"Honda Accord, Accord Crosstour",4
+Portsmouth,2015-11-01,Nissan,Nissan Sentra,1
+Portsmouth,2015-11-01,Chrysler,Chrysler PT Cruiser,1
+Portsmouth,2015-11-01,Chevrolet,Chevrolet Cavalier,1
+Portsmouth,2015-11-01,BMW,BMW 530 Series,1
+Portsmouth,2015-11-01,Acura,Acura Integra,1
+Portsmouth,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Portsmouth,2015-11-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Portsmouth,2015-11-01,Suzuki,Suzuki Motorcycle,1
+Portsmouth,2015-11-01,Chevrolet,Chevrolet Impala,1
+Portsmouth,2015-11-01,Unknown,Unknown,1
+Portsmouth,2015-12-01,Chevrolet,Chevrolet Silverado,1
+Powellhurst-Gilbert,2015-05-01,Honda,"Honda Accord, Accord Crosstour",5
+Powellhurst-Gilbert,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",2
+Powellhurst-Gilbert,2015-05-01,Harley Davidson,Unknown Harley Davidson Model,1
+Powellhurst-Gilbert,2015-05-01,GEO,GEO Prizm,1
+Powellhurst-Gilbert,2015-05-01,Mini Division of BMW,Mini Division of BMW Cooper/Cooper-S,1
+Powellhurst-Gilbert,2015-05-01,Nissan,Nissan Truck,1
+Powellhurst-Gilbert,2015-05-01,Ford,Ford EXP,1
+Powellhurst-Gilbert,2015-05-01,Ford,Ford F350,1
+Powellhurst-Gilbert,2015-05-01,Ford,Ford Econoline E350,1
+Powellhurst-Gilbert,2015-05-01,Acura,Acura Integra,1
+Powellhurst-Gilbert,2015-05-01,Unknown,Unknown,1
+Powellhurst-Gilbert,2015-06-01,Unknown,Unknown,4
+Powellhurst-Gilbert,2015-06-01,Volkswagen,Volkswagen Jetta,2
+Powellhurst-Gilbert,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Powellhurst-Gilbert,2015-06-01,Chevrolet,Chevrolet Cavalier,1
+Powellhurst-Gilbert,2015-06-01,Acura,Acura MDX,1
+Powellhurst-Gilbert,2015-06-01,Audi,Audi A3,1
+Powellhurst-Gilbert,2015-06-01,Ford,Ford Ranger,1
+Powellhurst-Gilbert,2015-06-01,BMW,BMW 328i,1
+Powellhurst-Gilbert,2015-06-01,Honda,Honda CRV,1
+Powellhurst-Gilbert,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Powellhurst-Gilbert,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Powellhurst-Gilbert,2015-07-01,Honda,"Honda Accord, Accord Crosstour",5
+Powellhurst-Gilbert,2015-07-01,Toyota,Toyota Camry,2
+Powellhurst-Gilbert,2015-07-01,Unknown,Unknown,2
+Powellhurst-Gilbert,2015-07-01,Chevrolet,Chevrolet Tahoe,1
+Powellhurst-Gilbert,2015-07-01,Chevrolet,Chevrolet Silverado,1
+Powellhurst-Gilbert,2015-07-01,Chevrolet,Chevrolet Suburban,1
+Powellhurst-Gilbert,2015-07-01,Honda,Honda Odyssey,1
+Powellhurst-Gilbert,2015-07-01,Jeep,Jeep Grand Cherokee,1
+Powellhurst-Gilbert,2015-07-01,BMW,BMW Motorcycle,1
+Powellhurst-Gilbert,2015-07-01,GMC,GMC Denali,1
+Powellhurst-Gilbert,2015-07-01,Ford,Ford Escort,1
+Powellhurst-Gilbert,2015-08-01,Honda,"Honda Accord, Accord Crosstour",4
+Powellhurst-Gilbert,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",4
+Powellhurst-Gilbert,2015-08-01,Acura,Acura Integra,3
+Powellhurst-Gilbert,2015-08-01,Unknown,Unknown,2
+Powellhurst-Gilbert,2015-08-01,Toyota,Unknown,2
+Powellhurst-Gilbert,2015-08-01,Chevrolet,Chevrolet Suburban,1
+Powellhurst-Gilbert,2015-08-01,Chevrolet,Chevrolet S10,1
+Powellhurst-Gilbert,2015-08-01,Acura,Acura RL,1
+Powellhurst-Gilbert,2015-08-01,Ford,Ford Fusion,1
+Powellhurst-Gilbert,2015-08-01,Dodge,Dodge Dakota,1
+Powellhurst-Gilbert,2015-08-01,Mitsubishi,Mitsubishi Starion,1
+Powellhurst-Gilbert,2015-08-01,Mitsubishi,"Mitsubishi Eclipse, Eclipse Spyder GS-T, Eclipse Cross",1
+Powellhurst-Gilbert,2015-09-01,Unknown,Unknown,5
+Powellhurst-Gilbert,2015-09-01,Honda,"Honda Accord, Accord Crosstour",4
+Powellhurst-Gilbert,2015-09-01,Lexus,Unknown,2
+Powellhurst-Gilbert,2015-09-01,Ford,Ford Ranger,1
+Powellhurst-Gilbert,2015-09-01,Ford,Ford Windstar,1
+Powellhurst-Gilbert,2015-09-01,GMC,GMC Jimmy,1
+Powellhurst-Gilbert,2015-09-01,Ford,Ford Mustang,1
+Powellhurst-Gilbert,2015-09-01,Chevrolet,Chevrolet Malibu,1
+Powellhurst-Gilbert,2015-09-01,Cadillac,"Cadillac Seville, SLS-Seville, STS-Seville",1
+Powellhurst-Gilbert,2015-09-01,Acura,Acura Integra,1
+Powellhurst-Gilbert,2015-09-01,Ford,"Ford Taurus, Taurus X",1
+Powellhurst-Gilbert,2015-09-01,Audi,Audi A4,1
+Powellhurst-Gilbert,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",10
+Powellhurst-Gilbert,2015-10-01,Honda,"Honda Accord, Accord Crosstour",5
+Powellhurst-Gilbert,2015-10-01,Chevrolet,Unknown Chevrolet Model,1
+Powellhurst-Gilbert,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Powellhurst-Gilbert,2015-10-01,Lincoln,Lincoln Navigator,1
+Powellhurst-Gilbert,2015-10-01,Hyundai,Hyundai Elantra,1
+Powellhurst-Gilbert,2015-10-01,Lexus,Lexus ES300,1
+Powellhurst-Gilbert,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Powellhurst-Gilbert,2015-11-01,Honda,"Honda Accord, Accord Crosstour",7
+Powellhurst-Gilbert,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",3
+Powellhurst-Gilbert,2015-11-01,Toyota,Toyota Camry,1
+Powellhurst-Gilbert,2015-11-01,Honda,Honda CRV,1
+Powellhurst-Gilbert,2015-11-01,Saturn,Saturn SL,1
+Powellhurst-Gilbert,2015-11-01,Ford,Ford F250,1
+Powellhurst-Gilbert,2015-11-01,Volvo,Volvo 960,1
+Powellhurst-Gilbert,2015-11-01,Nissan,Nissan Altima,1
+Powellhurst-Gilbert,2015-11-01,Ford,"Ford Taurus, Taurus X",1
+Powellhurst-Gilbert,2015-12-01,Unknown,Unknown,7
+Powellhurst-Gilbert,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Powellhurst-Gilbert,2015-12-01,Honda,"Honda Accord, Accord Crosstour",3
+Powellhurst-Gilbert,2015-12-01,Nissan,Nissan Truck,2
+Powellhurst-Gilbert,2015-12-01,Acura,Acura Integra,2
+Powellhurst-Gilbert,2015-12-01,Ford,Unknown,2
+Powellhurst-Gilbert,2015-12-01,Audi,Audi A6,1
+Powellhurst-Gilbert,2015-12-01,Chevrolet,Chevrolet Astro,1
+Powellhurst-Gilbert,2015-12-01,Acura,Acura TL Series,1
+Powellhurst-Gilbert,2015-12-01,Chevrolet,Chevrolet Tahoe,1
+Powellhurst-Gilbert,2015-12-01,Ford,Ford Econoline E250,1
+Powellhurst-Gilbert,2015-12-01,Chevrolet,Chevrolet Blazer,1
+Reed,2015-05-01,Yamaha,Unknown Yamaha Model,1
+Reed,2015-05-01,Nissan,Nissan XE,1
+Reed,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Reed,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Reed,2015-05-01,Nissan,Nissan Altima,1
+Reed,2015-05-01,Toyota,Toyota Tacoma,1
+Reed,2015-05-01,Toyota,Toyota Camry,1
+Reed,2015-06-01,GMC,Unknown GMC Model,1
+Reed,2015-06-01,Ford,Ford Ranger,1
+Reed,2015-06-01,Mitsubishi,"Mitsubishi Eclipse, Eclipse Spyder GS-T, Eclipse Cross",1
+Reed,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Reed,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Reed,2015-08-01,GMC,GMC Sierra,1
+Reed,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Reed,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Reed,2015-09-01,Nissan,Nissan Truck,1
+Reed,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Reed,2015-10-01,Volkswagen,"Volkswagen Beetle, Super Beetle, Bug",1
+Reed,2015-10-01,Yamaha,Yamaha Motorcycle,1
+Reed,2015-10-01,Jeep,Jeep Cherokee,1
+Reed,2015-10-01,Honda,Honda CRV,1
+Reed,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Reed,2015-11-01,Acura,Acura Integra,1
+Reed,2015-11-01,Toyota,Toyota Truck,1
+Reed,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Reed,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Reed,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Reed,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Reed,2015-12-01,Acura,Acura Integra,1
+Richmond,2015-05-01,Suzuki,Unknown Suzuki Model,1
+Richmond,2015-05-01,Nissan,Nissan XE,1
+Richmond,2015-05-01,Toyota,Toyota Camry,1
+Richmond,2015-05-01,Suzuki,Suzuki Grand Vitara,1
+Richmond,2015-05-01,Nissan,Nissan Sentra,1
+Richmond,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Richmond,2015-05-01,Audi,Audi A6,1
+Richmond,2015-06-01,Honda,"Honda Accord, Accord Crosstour",2
+Richmond,2015-06-01,Nissan,Nissan Stanza,1
+Richmond,2015-06-01,Subaru,Subaru Forester,1
+Richmond,2015-06-01,Volkswagen,Volkswagen Golf,1
+Richmond,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Richmond,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Richmond,2015-07-01,Toyota,Unknown Toyota Model,1
+Richmond,2015-07-01,Toyota,Toyota Tacoma,1
+Richmond,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Richmond,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Richmond,2015-07-01,Honda,Honda Motorcycle,1
+Richmond,2015-08-01,Ducati,Unknown Ducati Model,1
+Richmond,2015-08-01,Honda,Unknown Honda Model,1
+Richmond,2015-08-01,Harley Davidson,Unknown Harley Davidson Model,1
+Richmond,2015-08-01,Kawasaki,Kawasaki Motorcycle,1
+Richmond,2015-08-01,Toyota,"Toyota Corolla, Corolla IM",1
+Richmond,2015-08-01,Toyota,Toyota Camry,1
+Richmond,2015-08-01,Ford,Ford F250,1
+Richmond,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",3
+Richmond,2015-09-01,Subaru,Unknown Subaru Model,1
+Richmond,2015-09-01,Mazda,Unknown Mazda Model,1
+Richmond,2015-09-01,Toyota,Toyota 4-Runner,1
+Richmond,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Richmond,2015-09-01,Nissan,Nissan Sentra,1
+Richmond,2015-09-01,Suzuki,Suzuki Motorcycle,1
+Richmond,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",4
+Richmond,2015-10-01,Honda,"Honda Accord, Accord Crosstour",3
+Richmond,2015-10-01,Toyota,Toyota RAV4,1
+Richmond,2015-10-01,Honda,Honda FIT,1
+Richmond,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Richmond,2015-10-01,Toyota,Toyota Highlander,1
+Richmond,2015-11-01,Acura,Acura CL Series,1
+Richmond,2015-11-01,Nissan,Nissan Sentra,1
+Richmond,2015-11-01,Toyota,Toyota Truck,1
+Richmond,2015-11-01,Toyota,Toyota Tacoma,1
+Richmond,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Richmond,2015-12-01,Honda,"Honda Accord, Accord Crosstour",3
+Richmond,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Richmond,2015-12-01,Honda,Honda CRV,2
+Richmond,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Richmond,2015-12-01,Toyota,Toyota Camry,1
+Richmond,2015-12-01,Nissan,Nissan Truck,1
+Richmond,2015-12-01,Toyota,Toyota Avalon,1
+Richmond,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Rose City Park,2015-05-01,Honda,Honda CRV,2
+Rose City Park,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Rose City Park,2015-05-01,Acura,Acura Integra,1
+Rose City Park,2015-05-01,Jeep,Jeep Grand Cherokee,1
+Rose City Park,2015-06-01,Subaru,Subaru Forester,1
+Rose City Park,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Rose City Park,2015-06-01,Ford,Ford F250,1
+Rose City Park,2015-06-01,Ford,Ford Focus,1
+Rose City Park,2015-06-01,Mercedes-Benz,Mercedes-Benz 190 Series,1
+Rose City Park,2015-07-01,Yamaha,Yamaha Motorcycle,2
+Rose City Park,2015-07-01,Honda,Unknown Honda Model,1
+Rose City Park,2015-07-01,Volkswagen,Volkswagen Jetta,1
+Rose City Park,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Rose City Park,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Rose City Park,2015-07-01,Dodge,Dodge Ram 1500,1
+Rose City Park,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Rose City Park,2015-08-01,Yamaha,Unknown Yamaha Model,1
+Rose City Park,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Rose City Park,2015-08-01,Toyota,Toyota Prius,1
+Rose City Park,2015-08-01,Dodge,Dodge Ram 1500,1
+Rose City Park,2015-08-01,Jeep,Jeep Wrangler,1
+Rose City Park,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",3
+Rose City Park,2015-09-01,Ford,Ford F150,2
+Rose City Park,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Rose City Park,2015-09-01,Subaru,Subaru Outback,1
+Rose City Park,2015-09-01,Toyota,Toyota Camry,1
+Rose City Park,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Rose City Park,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Rose City Park,2015-10-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Rose City Park,2015-11-01,Chevrolet,Chevrolet Express,1
+Rose City Park,2015-11-01,Kia Motors Corp,Kia Motors Corp Soul,1
+Rose City Park,2015-11-01,Suzuki,Suzuki Motorcycle,1
+Rose City Park,2015-11-01,Toyota,Toyota RAV4,1
+Rose City Park,2015-11-01,Toyota,Toyota Prius,1
+Rose City Park,2015-11-01,Nissan,Nissan XE,1
+Rose City Park,2015-11-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Rose City Park,2015-11-01,GMC,GMC Savana,1
+Rose City Park,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Rose City Park,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Rose City Park,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Rose City Park,2015-12-01,Nissan,Nissan Truck,1
+Rose City Park,2015-12-01,Ford,Ford Truck,1
+Rose City Park,2015-12-01,International Harvester,International Harvester Truck,1
+Rose City Park,2015-12-01,Honda,Honda CRV,1
+Rose City Park,2015-12-01,Toyota,Toyota Prius,1
+Rose City Park,2015-12-01,Kia Motors Corp,Kia Motors Corp Sportage,1
+Roseway,2015-05-01,Dodge,Dodge Ram 2500,1
+Roseway,2015-05-01,GMC,GMC Truck,1
+Roseway,2015-06-01,Ford,Ford Econoline E450,1
+Roseway,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Roseway,2015-06-01,Honda,"Honda Civic, CRX, Del Sol",1
+Roseway,2015-06-01,Subaru,Subaru Outback Sport,1
+Roseway,2015-07-01,Honda,Honda Motorcycle,1
+Roseway,2015-07-01,Chrysler,Chrysler Town & Country,1
+Roseway,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Roseway,2015-09-01,Volkswagen,Volkswagen Jetta,1
+Roseway,2015-09-01,Kia Motors Corp,Kia Motors Corp Optima,1
+Roseway,2015-10-01,Toyota,Toyota Camry,2
+Roseway,2015-10-01,Isuzu,Isuzu Trooper,1
+Roseway,2015-10-01,GMC,GMC Suburban,1
+Roseway,2015-11-01,Dodge,"Dodge Caravan, Grand Caravan",1
+Roseway,2015-11-01,Ducati,Ducati Motorcycle,1
+Roseway,2015-11-01,Kawasaki,Kawasaki Motorcycle,1
+Roseway,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Roseway,2015-12-01,Subaru,Subaru Outback,1
+Roseway,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Roseway,2015-12-01,Nissan,Nissan Truck,1
+Roseway,2015-12-01,Toyota,Toyota Highlander,1
+Russell,2015-05-01,"Poloron Homes of Pennsylvania, Inc./Poloron Products","Unknown Poloron Homes of Pennsylvania, Inc./Poloron Products Model",1
+Russell,2015-06-01,Jeep,Jeep Grand Cherokee,1
+Russell,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Russell,2015-09-01,Ford,Ford Explorer,1
+Russell,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Russell,2015-10-01,Honda,Honda Pilot,1
+Russell,2015-10-01,Dodge,Dodge Dakota,1
+Russell,2015-10-01,Ford,Ford Escort,1
+Russell,2015-10-01,Ford,Ford Econoline E250,1
+Russell,2015-11-01,Acura,Acura Integra,1
+Russell,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Russell,2015-11-01,Ford,Ford Explorer,1
+Russell,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Russell,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",4
+Russell,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Sabin,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Sabin,2015-08-01,Ford,Ford F150,1
+Sabin,2015-08-01,Dodge,Dodge Ram 1500,1
+Sabin,2015-09-01,Nissan,Nissan Sentra,1
+Sabin,2015-09-01,Nissan,Nissan XE,1
+Sabin,2015-09-01,Toyota,Toyota Camry,1
+Sabin,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Sabin,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Sabin,2015-11-01,Ford,Ford Escape,1
+Sabin,2015-12-01,Toyota,Toyota Highlander,1
+Sabin,2015-12-01,Mini Division of BMW,Mini Division of BMW Cooper/Cooper-S,1
+Sellwood-Moreland,2015-05-01,Chevrolet,Chevrolet Blazer,1
+Sellwood-Moreland,2015-05-01,Chevrolet,Chevrolet Truck,1
+Sellwood-Moreland,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Sellwood-Moreland,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Sellwood-Moreland,2015-05-01,Toyota,Toyota Camry,1
+Sellwood-Moreland,2015-06-01,Nissan,Nissan Altima,1
+Sellwood-Moreland,2015-06-01,Honda,Honda CRV,1
+Sellwood-Moreland,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Sellwood-Moreland,2015-06-01,Jeep,Jeep Grand Cherokee,1
+Sellwood-Moreland,2015-07-01,Nissan,Nissan Truck,1
+Sellwood-Moreland,2015-07-01,Toyota,Toyota Camry,1
+Sellwood-Moreland,2015-07-01,Honda,Honda Motorcycle,1
+Sellwood-Moreland,2015-07-01,Honda,"Honda Accord, Accord Crosstour",1
+Sellwood-Moreland,2015-08-01,Classic Trailer Mfg,Unknown Classic Trailer Mfg Model,1
+Sellwood-Moreland,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Sellwood-Moreland,2015-09-01,Subaru,Subaru Outback Sport,1
+Sellwood-Moreland,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Sellwood-Moreland,2015-09-01,Jeep,Jeep Cherokee,1
+Sellwood-Moreland,2015-09-01,Nissan,Nissan 200SX,1
+Sellwood-Moreland,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Sellwood-Moreland,2015-10-01,Datsun,Datsun 720,1
+Sellwood-Moreland,2015-10-01,Honda,Honda CRV,1
+Sellwood-Moreland,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+Sellwood-Moreland,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Sellwood-Moreland,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+Sellwood-Moreland,2015-11-01,Ford,Ford Econoline E250,1
+Sellwood-Moreland,2015-11-01,Chevrolet,Chevrolet Blazer,1
+Sellwood-Moreland,2015-11-01,Honda,Honda CRV,1
+Sellwood-Moreland,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Sellwood-Moreland,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Sellwood-Moreland,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Sellwood-Moreland,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Sellwood-Moreland,2015-12-01,Unknown Make,Unknown Unknown Make Model,1
+Sellwood-Moreland,2015-12-01,Honda,Honda CRV,1
+Sellwood-Moreland,2015-12-01,Honda,Honda Motorcycle,1
+Sellwood-Moreland,2015-12-01,Kawasaki,Kawasaki Motorcycle,1
+Sellwood-Moreland,2015-12-01,Nissan,Nissan Truck,1
+South Burlingame,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+South Burlingame,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+South Portland,2015-05-01,Honda,"Honda Accord, Accord Crosstour",3
+South Portland,2015-05-01,Mercedes-Benz,Mercedes-Benz ML320,1
+South Portland,2015-05-01,Nissan,Nissan Murano,1
+South Portland,2015-06-01,Honda,Honda Motorcycle,1
+South Portland,2015-07-01,Chevrolet,Chevrolet Sportvan,1
+South Portland,2015-07-01,Honda,Honda CRV,1
+South Portland,2015-08-01,Tankraft Trailer,Unknown Tankraft Trailer Model,1
+South Portland,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+South Portland,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+South Portland,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",1
+South Portland,2015-09-01,Buick,"Buick Regal, Regal Limited",1
+South Portland,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+South Portland,2015-10-01,Honda,"Honda Accord, Accord Crosstour",2
+South Portland,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+South Portland,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+South Portland,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",2
+South Portland,2015-11-01,Subaru,"Subaru Impreza, Impreza Outback",1
+South Portland,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+South Portland,2015-12-01,Honda,Honda Prelude,1
+South Portland,2015-12-01,Nissan,Nissan XE,1
+South Portland,2015-12-01,Toyota,Toyota Cressida,1
+South Tabor,2015-05-01,Nissan,Nissan Truck,1
+South Tabor,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+South Tabor,2015-06-01,Nissan,Nissan XE,1
+South Tabor,2015-06-01,Nissan,Nissan Truck,1
+South Tabor,2015-06-01,Ford,Ford F250,1
+South Tabor,2015-07-01,Honda,Honda Prelude,1
+South Tabor,2015-07-01,Polaris,Polaris Snowmobile-Wheels only,1
+South Tabor,2015-07-01,Dodge,"Dodge Caravan, Grand Caravan",1
+South Tabor,2015-08-01,Chevrolet,Chevrolet Tahoe,1
+South Tabor,2015-08-01,Buick,"Buick Century, Century Limited",1
+South Tabor,2015-09-01,Toyota,Toyota RAV4,1
+South Tabor,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+South Tabor,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+South Tabor,2015-09-01,Ford,Ford Escort,1
+South Tabor,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",3
+South Tabor,2015-10-01,Acura,Acura Integra,1
+South Tabor,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+South Tabor,2015-11-01,Nissan,Nissan Truck,2
+South Tabor,2015-11-01,Toyota,Unknown Toyota Model,1
+South Tabor,2015-12-01,Nissan,Unknown Nissan Model,1
+South Tabor,2015-12-01,Ford,Ford Ranger,1
+South Tabor,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+South Tabor,2015-12-01,Nissan,Nissan Sentra,1
+South Tabor,2015-12-01,Nissan,Nissan Truck,1
+Southwest Hills,2015-07-01,Nissan,Nissan Leaf,1
+Southwest Hills,2015-07-01,Porsche,Porsche Cayenne,1
+Southwest Hills,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Southwest Hills,2015-08-01,Audi,Audi 2000 TT-Coupe or TT-Roadster,1
+Southwest Hills,2015-09-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Southwest Hills,2015-09-01,Mercedes-Benz,Mercedes-Benz C300,1
+Southwest Hills,2015-09-01,BMW,BMW X3,1
+Southwest Hills,2015-09-01,Honda,"Honda Accord, Accord Crosstour",1
+Southwest Hills,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Southwest Hills,2015-12-01,GEO,GEO Prizm,1
+Southwest Hills,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+St Johns,2015-05-01,Nissan,Unknown,2
+St Johns,2015-05-01,Unknown,Unknown,2
+St Johns,2015-05-01,International Harvester,International Harvester Truck,1
+St Johns,2015-05-01,Dodge,Dodge Dakota,1
+St Johns,2015-05-01,Honda,Honda CRV,1
+St Johns,2015-05-01,Chevrolet,Chevrolet C/K 1500,1
+St Johns,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+St Johns,2015-05-01,AM General Corp,AM General Corp Hummer,1
+St Johns,2015-05-01,Harley Davidson,Harley Davidson Motorcycle,1
+St Johns,2015-05-01,Ford,Ford Explorer,1
+St Johns,2015-05-01,Dodge,Dodge Ram 3500,1
+St Johns,2015-05-01,Chevrolet,Chevrolet Express,1
+St Johns,2015-06-01,Yamaha,Unknown Yamaha Model,1
+St Johns,2015-06-01,Toyota,Toyota Camry,1
+St Johns,2015-06-01,Toyota,"Toyota Corolla, Corolla IM",1
+St Johns,2015-06-01,Chevrolet,Chevrolet S10,1
+St Johns,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+St Johns,2015-06-01,Subaru,"Subaru Impreza, Impreza Outback",1
+St Johns,2015-07-01,Nissan,Unknown Nissan Model,1
+St Johns,2015-08-01,Nissan,Nissan SE-V6,1
+St Johns,2015-08-01,Toyota,Toyota Previa,1
+St Johns,2015-08-01,Toyota,Toyota 4-Runner,1
+St Johns,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",2
+St Johns,2015-09-01,Freightliner Corp,Unknown Freightliner Corp Model,1
+St Johns,2015-09-01,Ford,Ford Ranger,1
+St Johns,2015-09-01,Ford,Ford Escort,1
+St Johns,2015-09-01,Subaru,Subaru Outback Sport,1
+St Johns,2015-09-01,Freightliner Corp,Freightliner Corp Truck,1
+St Johns,2015-09-01,Chrysler,Chrysler Town & Country,1
+St Johns,2015-10-01,Hyundai,Hyundai Elantra,1
+St Johns,2015-10-01,Toyota,Toyota Camry,1
+St Johns,2015-11-01,Toyota,Toyota Camry,2
+St Johns,2015-11-01,Ford,Ford Escape,1
+St Johns,2015-11-01,Isuzu,Isuzu Rodeo,1
+St Johns,2015-11-01,Honda,Honda Prelude,1
+St Johns,2015-11-01,Toyota,Toyota Sienna,1
+St Johns,2015-11-01,Dodge,Dodge Ram 1500,1
+St Johns,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+St Johns,2015-11-01,Infiniti,Infiniti G20,1
+St Johns,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+St Johns,2015-12-01,Chrysler,Chrysler Sebring,1
+St Johns,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+St Johns,2015-12-01,Volvo,Volvo 240 Series,1
+Sullivan's Gulch,2015-05-01,Honda,Honda CRV,1
+Sullivan's Gulch,2015-05-01,Toyota,Toyota Camry,1
+Sullivan's Gulch,2015-06-01,Acura,Acura Integra,1
+Sullivan's Gulch,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Sullivan's Gulch,2015-06-01,Honda,Honda CRV,1
+Sullivan's Gulch,2015-06-01,Mazda,Mazda Miata,1
+Sullivan's Gulch,2015-07-01,Chevrolet,Chevrolet Caprice,1
+Sullivan's Gulch,2015-08-01,Suzuki,Suzuki Vitara,1
+Sullivan's Gulch,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Sullivan's Gulch,2015-09-01,Toyota,Toyota Camry,1
+Sullivan's Gulch,2015-10-01,Honda,"Honda Accord, Accord Crosstour",1
+Sullivan's Gulch,2015-10-01,Volkswagen,Volkswagen Jetta,1
+Sullivan's Gulch,2015-11-01,Acura,Acura Integra,1
+Sullivan's Gulch,2015-11-01,Hyundai,Hyundai Santa Fe,1
+Sullivan's Gulch,2015-11-01,Ford,Ford Explorer,1
+Sullivan's Gulch,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Sullivan's Gulch,2015-12-01,Honda,"Honda Accord, Accord Crosstour",2
+Sullivan's Gulch,2015-12-01,Toyota,Toyota Celica,1
+Sullivan's Gulch,2015-12-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Sullivan's Gulch,2015-12-01,Nissan,Nissan Truck,1
+Sumner,2015-05-01,Acura,Acura Integra,1
+Sumner,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+Sumner,2015-05-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Sumner,2015-06-01,Mazda,Mazda Protege,1
+Sumner,2015-07-01,Honda,Honda CRV,1
+Sumner,2015-07-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Sumner,2015-08-01,Chevrolet,Unknown Chevrolet Model,1
+Sumner,2015-08-01,Ford,Ford Escape,1
+Sumner,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Sumner,2015-08-01,Mazda,Mazda Protege,1
+Sumner,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Sumner,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",2
+Sumner,2015-09-01,Toyota,Toyota Highlander,1
+Sumner,2015-09-01,Honda,Honda CRV,1
+Sumner,2015-09-01,Honda,"Honda Civic, CRX, Del Sol",1
+Sumner,2015-09-01,Acura,Acura Integra,1
+Sumner,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",2
+Sumner,2015-10-01,Honda,Unknown Honda Model,1
+Sumner,2015-10-01,Kia Motors Corp,Kia Motors Corp Rio,1
+Sumner,2015-10-01,Honda,Honda CRV,1
+Sumner,2015-11-01,Honda,"Honda Accord, Accord Crosstour",2
+Sumner,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Sumner,2015-12-01,Subaru,Subaru Forester,1
+Sunderland,2015-05-01,Isuzu,Isuzu Truck,1
+Sunderland,2015-06-01,Toyota,Toyota Camry,1
+Sunderland,2015-07-01,Dodge,Unknown Dodge Model,1
+Sunderland,2015-08-01,Freightliner Corp,Unknown Freightliner Corp Model,1
+Sunderland,2015-11-01,Chrysler,Chrysler PT Cruiser,1
+Sunderland,2015-11-01,Isuzu,Isuzu Amigo,1
+Sunnyside,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",4
+Sunnyside,2015-05-01,Nissan,Nissan Truck,1
+Sunnyside,2015-05-01,Toyota,Toyota Truck,1
+Sunnyside,2015-06-01,Honda,Honda CRV,2
+Sunnyside,2015-06-01,Nissan,Nissan Truck,1
+Sunnyside,2015-06-01,Acura,Acura Integra,1
+Sunnyside,2015-06-01,Nissan,Nissan SE-V6,1
+Sunnyside,2015-06-01,Ford,Ford Escape,1
+Sunnyside,2015-06-01,Subaru,"Subaru Impreza, Impreza Outback",1
+Sunnyside,2015-06-01,Jeep,Jeep Liberty,1
+Sunnyside,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Sunnyside,2015-08-01,Mazda,Mazda B2300,1
+Sunnyside,2015-08-01,Harley Davidson,Harley Davidson Motorcycle,1
+Sunnyside,2015-08-01,Toyota,Toyota Yaris or Yaris IM,1
+Sunnyside,2015-08-01,Mazda,Mazda B2200,1
+Sunnyside,2015-09-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Sunnyside,2015-09-01,Volkswagen,Volkswagen Vanagon,1
+Sunnyside,2015-09-01,Honda,Honda CRV,1
+Sunnyside,2015-09-01,Lexus,Lexus ES300,1
+Sunnyside,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Sunnyside,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",2
+Sunnyside,2015-10-01,Dodge,Dodge Dakota,1
+Sunnyside,2015-10-01,Pontiac,Pontiac Grand AM,1
+Sunnyside,2015-10-01,Toyota,Toyota Truck,1
+Sunnyside,2015-11-01,Nissan,Unknown Nissan Model,1
+Sunnyside,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Sunnyside,2015-11-01,Chrysler,Chrysler PT Cruiser,1
+Sunnyside,2015-11-01,Honda,Honda Motorcycle,1
+Sunnyside,2015-12-01,Honda,Honda CRV,3
+Sunnyside,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",2
+Sunnyside,2015-12-01,Toyota,"Toyota Corolla, Corolla IM",1
+Sunnyside,2015-12-01,Nissan,Nissan Truck,1
+Sunnyside,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Sunnyside,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Sylvan-Highlands,2015-06-01,Toyota,Toyota 4-Runner,1
+Sylvan-Highlands,2015-06-01,Honda,"Honda Accord, Accord Crosstour",1
+Sylvan-Highlands,2015-08-01,Toyota,Toyota Tundra,1
+Sylvan-Highlands,2015-10-01,Dodge,Dodge Ram 1500,1
+University Park,2015-05-01,Chevrolet,Chevrolet Blazer,1
+University Park,2015-05-01,Toyota,Toyota Camry,1
+University Park,2015-05-01,Honda,"Honda Accord, Accord Crosstour",1
+University Park,2015-06-01,Chevrolet,Chevrolet Sportvan,1
+University Park,2015-06-01,Ford,Ford F150,1
+University Park,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+University Park,2015-10-01,Oldsmobile,Oldsmobile Regency,1
+University Park,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",1
+University Park,2015-11-01,Toyota,Toyota Camry,1
+University Park,2015-11-01,Honda,Honda Odyssey,1
+University Park,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+University Park,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Vernon,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Vernon,2015-07-01,Toyota,Toyota Camry,1
+Vernon,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Vernon,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Vernon,2015-12-01,Subaru,"Subaru Legacy, Legacy Outback",1
+West Portland Park,2015-09-01,Kawasaki,Kawasaki Motorcycle,1
+West Portland Park,2015-11-01,Chevrolet,Chevrolet C/K 1500,1
+West Portland Park,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Wilkes,2015-05-01,International Coach Mfg,Unknown International Coach Mfg Model,1
+Wilkes,2015-05-01,Freightliner Corp,Unknown Freightliner Corp Model,1
+Wilkes,2015-05-01,Ford,Ford Escort,1
+Wilkes,2015-05-01,Acura,Acura TL Series,1
+Wilkes,2015-07-01,Honda,"Honda Accord, Accord Crosstour",2
+Wilkes,2015-07-01,John Deere,Unknown John Deere Model,1
+Wilkes,2015-07-01,Honda,"Honda Civic, CRX, Del Sol",1
+Wilkes,2015-07-01,GMC,GMC Envoy,1
+Wilkes,2015-09-01,Honda,"Honda Accord, Accord Crosstour",2
+Wilkes,2015-09-01,Nissan,Unknown Nissan Model,1
+Wilkes,2015-09-01,Suzuki,Suzuki Motorcycle,1
+Wilkes,2015-09-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Wilkes,2015-10-01,Honda,"Honda Civic, CRX, Del Sol",4
+Wilkes,2015-10-01,Acura,Acura Integra,2
+Wilkes,2015-10-01,Honda,Unknown Honda Model,1
+Wilkes,2015-10-01,GMC,GMC Envoy,1
+Wilkes,2015-10-01,Nissan,Nissan Truck,1
+Wilkes,2015-10-01,Ford,Ford F350,1
+Wilkes,2015-10-01,Acura,Acura TL Series,1
+Wilkes,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",5
+Wilkes,2015-11-01,Honda,"Honda Accord, Accord Crosstour",3
+Wilkes,2015-11-01,Acura,Acura Integra,2
+Wilkes,2015-11-01,Honda,Unknown Honda Model,1
+Wilkes,2015-11-01,Lexus,Lexus ES300,1
+Wilkes,2015-11-01,Acura,Acura Legend,1
+Wilkes,2015-11-01,Chevrolet,Chevrolet Blazer,1
+Wilkes,2015-12-01,Honda,"Honda Accord, Accord Crosstour",4
+Wilkes,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Wilkes,2015-12-01,Acura,Acura Integra,2
+Wilkes,2015-12-01,Honda,Honda CRV,2
+Wilkes,2015-12-01,Subaru,Subaru SVX,1
+Wilkes,2015-12-01,Toyota,Toyota 4-Runner,1
+Wilkes,2015-12-01,Mercury,Mercury Tracer,1
+Wilkes,2015-12-01,Toyota,Toyota Tacoma,1
+Woodland Park,2015-06-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Woodland Park,2015-08-01,Dodge,Dodge Spirit,1
+Woodland Park,2015-10-01,Ford,Ford Explorer,1
+Woodlawn,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Woodlawn,2015-10-01,Toyota,"Toyota Corolla, Corolla IM",1
+Woodlawn,2015-11-01,Honda,"Honda Accord, Accord Crosstour",1
+Woodlawn,2015-11-01,Honda,"Honda Civic, CRX, Del Sol",1
+Woodlawn,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Woodlawn,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",1
+Woodstock,2015-05-01,Kia Motors Corp,Kia Motors Corp Sportage,2
+Woodstock,2015-05-01,Honda,"Honda Civic, CRX, Del Sol",1
+Woodstock,2015-07-01,Toyota,Toyota Truck,1
+Woodstock,2015-07-01,Volvo,Volvo V70,1
+Woodstock,2015-07-01,Datsun,Datsun 720,1
+Woodstock,2015-08-01,Honda,"Honda Civic, CRX, Del Sol",1
+Woodstock,2015-08-01,Honda,"Honda Accord, Accord Crosstour",1
+Woodstock,2015-09-01,Saab,Saab 900,1
+Woodstock,2015-10-01,Subaru,"Subaru Impreza, Impreza Outback",3
+Woodstock,2015-10-01,Subaru,"Subaru Legacy, Legacy Outback",1
+Woodstock,2015-10-01,Nissan,Nissan Maxima,1
+Woodstock,2015-10-01,Chevrolet,Chevrolet S10,1
+Woodstock,2015-11-01,Nissan,"Nissan Pathfinder, Pathfinder Armada",1
+Woodstock,2015-11-01,Saturn,Saturn SW,1
+Woodstock,2015-11-01,Saturn,Saturn SC,1
+Woodstock,2015-11-01,GMC,GMC Savana,1
+Woodstock,2015-12-01,Honda,"Honda Civic, CRX, Del Sol",3
+Woodstock,2015-12-01,Honda,Honda CRV,2
+Woodstock,2015-12-01,Acura,Acura Integra,2
+Woodstock,2015-12-01,Chevrolet,Chevrolet Astro,1
+Woodstock,2015-12-01,Honda,"Honda Accord, Accord Crosstour",1
+Woodstock,2015-12-01,BMW,BMW 325i *(DO NOT USE CODE),1
+Woodstock,2015-12-01,Toyota,Toyota Truck,1
+Woodstock,2015-12-01,Kaikai Meiduo Locomotive Co Ltd or Zhejiang Kaikai (MCs),Kaikai Meiduo Locomotive Co Ltd or Zhejiang Kaikai,1
