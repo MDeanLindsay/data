@@ -1,6 +1,6 @@
 # Public Datasets
 
-A small collection of datasets I've gathered (hoarded) used in personal projects. Each pulled from an official or public source, cleaned and flattened into tidy CSVs, and published here as **one file per year**.
+A small collection of datasets I've gathered (hoarded) for personal projects. Each pulled from an official or public source, cleaned and flattened into tidy CSVs, and published here as **one file per year**.
 
 Everything is extracted and published automatically by a self-hosted [Dagster](https://dagster.io) pipeline running on a Raspberry Pi, and **refreshed monthly**. Updates are idempotent, a year whose source data hasn't changed produces no new commit, so this repo's commit history doubles as a changelog of what actually changed.
 
