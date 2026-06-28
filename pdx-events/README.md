@@ -16,11 +16,11 @@ they happen.
 
 Two files per year, keyed on `event_date`:
 
-- `concert_shows_<YYYY>.csv` -- one row per show.
-- `concert_show_supporting_acts_<YYYY>.csv` -- one row per supporting act, linked to
+- `portland_events_<YYYY>.csv` -- one row per show.
+- `portland_event_supporting_acts_<YYYY>.csv` -- one row per supporting act, linked to
   a show by `(venue_slug, artist_name, event_date)`.
 
-## `concert_shows` columns
+## `portland_events` columns
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -34,7 +34,7 @@ Two files per year, keyed on `event_date`:
 | `description` | VARCHAR | Free-text blurb where the source provides one (mostly The 1905); usually null. |
 | `is_low_value` | BOOLEAN | `true` for theme/format events (dance & DJ nights, tribute acts, drag, karaoke, trivia, etc.) rather than a billed touring artist. Filter with `WHERE NOT is_low_value` for "real" shows. |
 
-## `concert_show_supporting_acts` columns
+## `portland_event_supporting_acts` columns
 
 | Column | Type | Description |
 |--------|------|-------------|
