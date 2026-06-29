@@ -10,9 +10,10 @@ Everything is extracted and published automatically by a self-hosted [Dagster](h
 |---------|--------------|----------|
 | [**aviation-safety/**](aviation-safety/) | Worldwide aviation accidents & incidents from the Aviation Safety Network, one row per occurrence (aircraft, operator, casualties, location, phase of flight). | 2000-present |
 | [**film-deaths/**](film-deaths/) | On-screen film deaths from the Cinemorgue wiki, one row per death (actor, film, year, cause of death). | All years |
-| [**pdx-crime/**](pdx-crime/) | Portland Police Bureau reported crime offenses, one row per incident-offense (location, category, offense type). | 2015-present |
-| [**pdx-vehicles/**](pdx-vehicles/) | Portland stolen vehicles broken down by make + model, per neighborhood, per month. | 2015-present |
 | [**pdx-camps/**](pdx-camps/) | Portland campsite-ordinance enforcement, one flat row per neighborhood per month (cleanups, contacts, outcomes, warrants). | 2025-present |
+| [**pdx-crime/**](pdx-crime/) | Portland Police Bureau reported crime offenses, one row per incident-offense (location, category, offense type). | 2015-present |
+| [**pdx-events/**](pdx-events/) | Portland-area concert & live-event listings across ~15 venues, one row per show plus a companion file of supporting acts. | 2026-present |
+| [**pdx-vehicles/**](pdx-vehicles/) | Portland stolen vehicles broken down by make + model, per neighborhood, per month. | 2015-present |
 
 Each folder includes a `README.md` with a full column reference.
 
