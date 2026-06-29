@@ -31,7 +31,6 @@ Two files per year, keyed on `event_date`:
 | `show_time` | TIME | Set/show start time (local), when published; otherwise null. |
 | `ticket_url` | VARCHAR | Link to the event/ticket page. Often null. |
 | `poster_url` | VARCHAR | Event poster image URL. Often null. |
-| `description` | VARCHAR | Free-text blurb where the source provides one (mostly The 1905); usually null. |
 | `is_low_value` | BOOLEAN | `true` for theme/format events (dance & DJ nights, tribute acts, drag, karaoke, trivia, etc.) rather than a billed touring artist. Filter with `WHERE NOT is_low_value` for "real" shows. |
 
 ## `portland_event_supporting_acts` columns
