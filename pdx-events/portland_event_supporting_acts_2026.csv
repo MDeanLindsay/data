@@ -1,4 +1,6 @@
 venue_slug,artist_name,event_date,billing_order,support_act
+aladdin-theater,Agriculture,2026-11-18,1,Uniform
+aladdin-theater,Agriculture,2026-11-18,2,Pure Hex
 aladdin-theater,Alan Doyle,2026-05-16,1,The East Pointers (Duo)
 aladdin-theater,Alice Phoebe Lou - Oblivion Tour,2026-04-27,1,John Andrews & The Yawns
 aladdin-theater,Bill Frisell with Tim Angulo and Luke Bergman,2026-03-12,1,Charlie Hunter Trio
@@ -32,6 +34,7 @@ aladdin-theater,Jonah Kagen,2026-03-14,1,Anna Graves
 aladdin-theater,King Buffalo,2026-11-02,1,L.A. Witch
 aladdin-theater,Last Dinosaurs Wellness 10YR Anniversary Tour,2026-03-10,1,elmjack
 aladdin-theater,Olivia O'Brien Presents: The PIXIE Tour,2026-08-16,1,Sophie Cates
+aladdin-theater,POSTPONED TBD: Olivia O'Brien Presents: The PIXIE Tour,2026-08-16,1,Sophie Cates
 aladdin-theater,Perfume Genius (Duo),2026-09-29,1,Dan English
 aladdin-theater,Phillip Phillips,2026-10-06,1,Elias Hix
 aladdin-theater,Pokey LaFarge,2026-12-11,1,Cicada Rhythm
@@ -171,6 +174,7 @@ hawthorne-theatre,Struggle Jennings,2026-05-05,1,Savannah Rae
 hawthorne-theatre,Sweet Pill – Still There's a Glow Tour,2026-04-07,1,Heart To Gold
 hawthorne-theatre,Sweet Pill – Still There's a Glow Tour,2026-04-07,2,Spaced
 hawthorne-theatre,"The Army, The Navy",2026-10-10,1,Ella Woolsey
+hawthorne-theatre,The Bends,2026-09-30,1,Flamingos in the Tree
 hawthorne-theatre,The Casualties: Detonate Tour,2026-04-14,1,Bullshit Detector
 hawthorne-theatre,The Frights,2026-09-20,1,Archer Oh
 hawthorne-theatre,The Moss,2026-04-03,1,Rec Hall
@@ -222,6 +226,7 @@ mississippi-studios,Days Of Bowie Presents: Black Country Rock,2026-05-30,1,Coll
 mississippi-studios,Dazzling Killmen,2026-05-16,1,Point Line Plane
 mississippi-studios,Dazzling Killmen,2026-05-16,2,Horsebag
 mississippi-studios,Delicate Steve,2026-03-27,1,Aggie Miller
+mississippi-studios,Devon Gilfillian - Time Will Tell Tour,2026-10-07,1,Snacktime
 mississippi-studios,Elise Trouw presents: The Diary of Elon Lust Tour,2026-03-30,1,Shawna Pair
 mississippi-studios,Fishbone - In Your Face 40th Anniversary Tour,2026-04-12,1,Bite Me Bambi
 mississippi-studios,Flyte,2026-04-18,1,Samantha Crain
@@ -249,6 +254,9 @@ mississippi-studios,Joshua Ray Walker,2026-09-19,1,FABRIZIO
 mississippi-studios,King Tuff,2026-05-05,1,Gabriel Bernini
 mississippi-studios,Koonce Ross Fraser,2026-04-19,1,Kip Richardson and The Prose
 mississippi-studios,La Luz,2026-08-21,1,Spacemoth
+mississippi-studios,Left on Tenth,2026-09-10,1,BendreTheGiant
+mississippi-studios,Left on Tenth,2026-09-10,2,No Soap
+mississippi-studios,Left on Tenth,2026-09-10,3,Radio
 mississippi-studios,Liz Cooper,2026-03-26,1,Wes Parker
 mississippi-studios,Local Love Letter #22: Gretta Seabird,2026-03-23,1,smilepile
 mississippi-studios,Local Love Letter #22: Gretta Seabird,2026-03-23,2,Oklahoma Perfect
@@ -267,6 +275,8 @@ mississippi-studios,Margaret Glaspy - The I Am Both Tour,2026-11-14,1,Anna Tivel
 mississippi-studios,Merle Law (Album Release),2026-06-28,1,ML Johnson
 mississippi-studios,Merle Law (Album Release),2026-06-28,2,Ryan Oxford
 mississippi-studios,Michigander,2026-10-06,1,Chapel
+mississippi-studios,Mississippi Street Fair,2026-07-11,1,Mississippi Studios & Bar Bar are open 10am - 2am
+mississippi-studios,Mississippi Street Fair,2026-07-11,2,World Cup Quarter Finals on the venue big screen at 2pm!
 mississippi-studios,Never Come Down,2026-08-06,1,Tall Poppy String Band
 mississippi-studios,Night Heron,2026-04-08,1,Mega Cat
 mississippi-studios,Nitzer Ebb - USA 2026,2026-09-02,1,Lead Into Gold
@@ -276,6 +286,7 @@ mississippi-studios,"Rocketship: 30th anniversary celebration of ""A Certain Smi
 mississippi-studios,Roger Clyne & The Peacemakers - Hell To Breakfast Tour (Night 1),2026-11-07,1,Buffalo Jones
 mississippi-studios,Roger Clyne & The Peacemakers - Hell To Breakfast Tour (Night 2),2026-11-08,1,Buffalo Jones
 mississippi-studios,Ryan Davis & the Roadhouse Band,2026-07-01,1,Blurries
+mississippi-studios,SOD OUT: La Luz,2026-08-21,1,Spacemoth
 mississippi-studios,"STUMPFEST XI: ALL THEM WITCHES, DANNY CAREY TRIO, TERRY GROSS",2026-04-25,1,ROYAL THUNDER & BLACK MARE
 mississippi-studios,"STUMPFEST XI: OLD MAN GLOOM, JAYE JAYLE, GUILTLESS",2026-04-23,1,TACOS! & SEMUTA
 mississippi-studios,"STUMPFEST XI: TORCHE, DRUNK HORSE, DANAVA",2026-04-24,1,STAINLESS & BLADE
@@ -341,6 +352,7 @@ polaris-hall,Deradoorian,2026-08-12,1,Warm Static
 polaris-hall,Earth to Eve,2026-07-15,1,Hayley Lynn Duo
 polaris-hall,Easy Honey,2026-05-07,1,Jack Shield & The Mojave Rush
 polaris-hall,Ella Red - TOUR'S NOT REAL: PART 2,2026-08-13,1,Zoe Ko
+polaris-hall,Ella Red - TOUR'S NOT REAL: PART 2,2026-08-13,2,Renn Olympus
 polaris-hall,Field Medic,2026-05-04,1,Beaming
 polaris-hall,Friko - Something Worth Waiting For: The Tour,2026-09-24,1,villagerrr
 polaris-hall,GATECREEPER,2026-05-18,1,Eternal
@@ -375,13 +387,19 @@ polaris-hall,Lowertown,2026-05-23,1,Micah Preite
 polaris-hall,MOVED TO ALADDIN THEATER: Faetooth,2026-05-11,1,Iress
 polaris-hall,MOVED TO ALADDIN THEATER: Faetooth,2026-05-11,2,Nightosphere
 polaris-hall,MOVED TO ALADDIN THEATER: femtanyl,2026-03-30,1,takihasdied
+polaris-hall,Marielle Kraft,2026-08-15,1,William Hinson
 polaris-hall,Marshall Crenshaw,2026-04-15,1,James Mastro
 polaris-hall,Meltt,2026-09-22,1,Low Hum
 polaris-hall,Night Cap,2026-03-23,1,Flight by Nothing
+polaris-hall,Pallbearer,2026-09-09,1,Ordh
+polaris-hall,Pearl & The Oysters,2026-07-08,1,Logan Hone
+polaris-hall,Pearl & The Oysters,2026-07-08,2,Katy & The Null Sets
 polaris-hall,Pearly Drops,2026-03-25,1,Teather
 polaris-hall,Perry Maysun – A Very Pathetic Tour,2026-06-22,1,Isaiah Poet
 polaris-hall,Porcelain,2026-08-09,1,Yudai
+polaris-hall,Porcelain,2026-08-09,2,HISS
 polaris-hall,REZN - Cycles in the Infinite Dream Tour,2026-10-21,1,Folian
+polaris-hall,Rin - Dearest Diary Tour,2026-10-15,1,Sabrina Sterling
 polaris-hall,Rosebud Baker (Night 1),2026-03-06,1,Billie Lee
 polaris-hall,Rosebud Baker (Night 1),2026-03-06,2,Ally J. Ward
 polaris-hall,Rosebud Baker (Night 2),2026-03-07,1,Billie Lee
@@ -390,6 +408,7 @@ polaris-hall,SINCERE ENGINEER - The Probable Claws Tour,2026-07-14,1,Ways Away
 polaris-hall,SINCERE ENGINEER - The Probable Claws Tour,2026-07-14,2,Smug LLC
 polaris-hall,SUSS,2026-05-08,1,Ann Annie
 polaris-hall,Saintseneca & Gladie,2026-03-29,1,Kelly's Future
+polaris-hall,Sean Hayes,2026-08-18,1,John Courage
 polaris-hall,Snõõper,2026-07-20,1,Happy Death Men
 polaris-hall,Snõõper,2026-07-20,2,Conspire
 polaris-hall,Snõõper,2026-07-20,3,Keddies Resort
@@ -407,7 +426,6 @@ polaris-hall,The Belair Lip Bombs x dust,2026-03-26,1,Laveda
 polaris-hall,The Delines,2026-04-10,1,Forrest VanTuyl
 polaris-hall,The Thing,2026-03-27,1,The Macks
 polaris-hall,The Thing,2026-03-27,2,Club Deluxe
-polaris-hall,Tommy Newport - Face to Face Tour,2026-07-31,1,Murdo Mitchell
 polaris-hall,Vacation Manor,2026-07-21,1,Nolen Durham
 polaris-hall,Wic Whitney,2026-07-16,1,Zach Lloyd
 polaris-hall,Will Varley,2026-10-05,1,Beans on Toast
@@ -423,6 +441,7 @@ revolution-hall,"Aimee Mann, 22 ½ Lost In Space Anniversary Tour with Jonathan 
 revolution-hall,"Aimee Mann, 22 ½ Lost In Space Anniversary Tour with Jonathan Coulton (Night 2)",2026-03-13,1,Jonathan Coulton
 revolution-hall,Ashley Cooke: The Baby Blues Tour,2026-10-15,1,Aniston Pate
 revolution-hall,Bad Nerves,2026-08-02,1,The Death Chat
+revolution-hall,Bad Nerves,2026-08-02,2,Forty Feet Tall
 revolution-hall,Bahamas - Industrial Sport & Sound,2026-11-04,1,Sister Ray
 revolution-hall,Benjamin Tod & Lost Dog Street Band (Night 1),2026-07-24,1,Kelsey Waldon
 revolution-hall,Benjamin Tod & Lost Dog Street Band (Night 2),2026-07-25,1,Kelsey Waldon
@@ -435,11 +454,13 @@ revolution-hall,Chat Pile - Who Loves The Sun Tour 2026,2026-09-27,1,Soul Glo
 revolution-hall,Chat Pile - Who Loves The Sun Tour 2026,2026-09-27,2,Virga
 revolution-hall,Cola,2026-09-20,1,Artificial Go
 revolution-hall,DANCE WITH THE DEAD + MAGIC SWORD - The Face Off Tour 2026,2026-05-30,1,Megan McDuffee
+revolution-hall,DICE,2026-10-30,1,The Back Alley
 revolution-hall,DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 1),2026-11-12,1,The Minus 5
 revolution-hall,DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 2),2026-11-13,1,Møtrik
 revolution-hall,DRIVE-BY TRUCKERS - HeAthens Homecoming West 2026 (Night 3),2026-11-14,1,The Delines
 revolution-hall,"DeVotchKa ""A Tribute to the Music of Little Miss Sunshine""",2026-07-31,1,Black Viiolet
 revolution-hall,Death From Above 1979 - Private Lives Tour,2026-10-29,1,Wine Lips
+revolution-hall,Dinosaur Jr. - Fall Tour 2026,2026-10-22,1,Stef Chura
 revolution-hall,Failure: Rising Skyline 2026,2026-10-04,1,quannnic
 revolution-hall,Fiddlehead,2026-07-15,1,Narrow Head
 revolution-hall,Fiddlehead,2026-07-15,2,Knumears
@@ -475,6 +496,7 @@ revolution-hall,Pavement,2026-07-18,1,Street Nights
 revolution-hall,Pigeons Playing Ping Pong - Fall Tour 2026,2026-10-24,1,Sqwerv
 revolution-hall,Plini - An Unnameable Desire North American Tour,2026-11-01,1,Night Verses
 revolution-hall,Plini - An Unnameable Desire North American Tour,2026-11-01,2,Portraits
+revolution-hall,Radiator Hospital,2026-09-22,1,Dusk
 revolution-hall,Rx Bandits - And The Battle Begun 20th Anniversary Tour,2026-06-23,1,Maps & Atlases
 revolution-hall,Samantha Fish - Paper Doll Live World Tour,2026-09-29,1,Zac Schulze Gang
 revolution-hall,She Wants Revenge,2026-10-13,1,Rosegarden Funeral Party
