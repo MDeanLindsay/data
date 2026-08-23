@@ -1,6 +1,6 @@
 # Public Datasets
 
-A small collection of datasets I've gathered (hoarded) for personal projects. Each pulled from an official or public source, cleaned and flattened into tidy CSVs, and published here as **one file per year**.
+A small collection of datasets I've gathered (hoarded) for personal projects. Each pulled from an official or public source, cleaned and flattened into tidy CSVs, and published here as **one file per year**, or a single file where the dataset is a full snapshot.
 
 Everything is extracted and published automatically by a self-hosted [Dagster](https://dagster.io) pipeline running on a Raspberry Pi, and **refreshed monthly**. Updates are idempotent, a year whose source data hasn't changed produces no new commit, so this repo's commit history doubles as a changelog of what actually changed.
 
@@ -10,6 +10,8 @@ Everything is extracted and published automatically by a self-hosted [Dagster](h
 |---------|--------------|----------|
 | [**aviation-safety/**](aviation-safety/) | Worldwide aviation accidents & incidents from the Aviation Safety Network, one row per occurrence (aircraft, operator, casualties, location, phase of flight). | 2000-present |
 | [**film-deaths/**](film-deaths/) | On-screen film deaths from the Cinemorgue wiki, one row per death (actor, film, year, cause of death). | All years |
+| [**oregon-alcohol/**](oregon-alcohol/) | Monthly price list for every distilled spirit sold in Oregon's state liquor stores, one row per item per month (bottle, case, and per-ounce pricing). | 2020-present |
+| [**oregon-nonprofits/**](oregon-nonprofits/) | Nonprofit corporations registered with the Oregon Secretary of State, one row per organization (name, type, registry date, address). | 1850-present |
 | [**pdx-camps/**](pdx-camps/) | Portland campsite-ordinance enforcement, one flat row per neighborhood per month (cleanups, contacts, outcomes, warrants). | 2025-present |
 | [**pdx-crime/**](pdx-crime/) | Portland Police Bureau reported crime offenses, one row per incident-offense (location, category, offense type). | 2015-present |
 | [**pdx-events/**](pdx-events/) | Portland-area concert & live-event listings across ~15 venues, one row per show plus a companion file of supporting acts. | 2026-present |
@@ -21,8 +23,9 @@ Each folder includes a `README.md` with a full column reference.
 
 ```
 <dataset>/
-  <name>_<YYYY>.csv      # one UTF-8 CSV per year, with a header row
+  <name>_<YYYY>.csv      # year-partitioned datasets: one UTF-8 CSV per year
+  <name>.csv             # snapshot datasets: a single UTF-8 CSV
 ```
 
-Each year's file is rebuilt wholesale, so it always reflects the latest values from
-the source; prior years can change when a source revises its records.
+Every file has a header row and is rebuilt wholesale, so it always reflects the latest
+values from the source; prior years can change when a source revises its records.
