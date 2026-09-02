@@ -9,8 +9,8 @@ place of business, registered agent, president, secretary), repeating each org's
 five-ish times over ~182,000 rows. Here it's collapsed to **one row per registry number**,
 with a single address block chosen per the rules below.
 
-The data is refreshed weekly from the state's open-data export and published here by
-[dagster-pi](https://github.com/MDeanLindsay/dagster-pi).
+The data is pulled weekly from the state's open-data export and published here monthly
+by [dagster-pi](https://github.com/MDeanLindsay/dagster-pi).
 
 ## File
 
